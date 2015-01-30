@@ -15,6 +15,7 @@ http://sqlzoo.net/wiki/Main_Page
 https://www.udacity.com/
 https://www.coursera.org/
 https://www.edx.org/
+http://www.git-tower.com/learn/
 
 ##Web Design
 http://web-design.alltop.com/
