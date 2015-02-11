@@ -74,60 +74,61 @@ https://marketing.grader.com
 http://nibbler.silktide.com/  
 
 ##CSS Frameworks
-http://usablica.github.io/front-end-frameworks/compare.html
-http://semantic-ui.com/
-http://foundation.zurb.com/
-http://gumbyframework.com/
-http://getuikit.com/
-http://purecss.io/
-http://patternlab.io/
-https://developers.google.com/web/starter-kit/
-http://www.google.com/design/
+http://usablica.github.io/front-end-frameworks/compare.html  
+http://semantic-ui.com/  
+http://foundation.zurb.com/  
+http://gumbyframework.com/  
+http://getuikit.com/  
+http://purecss.io/  
+http://patternlab.io/  
+https://developers.google.com/web/starter-kit/  
+http://www.google.com/design/  
 
 ##JavaScript libs
-http://www.javascripting.com/
-http://devdocs.io/
-http://libscore.com/
-https://angularjs.org
-http://d3js.org/
-http://maplacejs.com/
-http://hpneo.github.io/gmaps/examples.html
-http://heelhook.github.io/chardin.js/
-http://github.hubspot.com/offline/docs/welcome/
-http://prismjs.com/
-http://jquerymy.com/
+http://www.javascripting.com/  
+http://devdocs.io/  
+http://libscore.com/  
+https://angularjs.org  
+http://d3js.org/  
+http://maplacejs.com/  
+http://hpneo.github.io/gmaps/examples.html  
+http://heelhook.github.io/chardin.js/  
+http://github.hubspot.com/offline/docs/welcome/  
+http://prismjs.com/  
+http://jquerymy.com/  
 
 ##Mobile Apps
-http://ionicframework.com/
-http://onsen.io/
-http://www.idangero.us/framework7
+http://ionicframework.com/  
+http://onsen.io/  
+http://www.idangero.us/framework7  
 
 ##Prototyping Tools
-http://prototypingtools.co/
-http://sneakpeekit.com/
+http://prototypingtools.co/  
+http://sneakpeekit.com/  
 
 ##Testing
-https://github.com/facebookarchive/huxley
-http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/
-http://csste.st/
+https://github.com/facebookarchive/huxley  
+http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/  
+http://csste.st/  
 
 ##Email
-http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/
-https://litmus.com/scope/
+http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/  
+https://litmus.com/scope/  
 
 ##Fonts and icons
-http://fortawesome.github.io/Font-Awesome/
-http://pfefferle.github.io/openwebicons/
-http://fontello.com/
-http://iconvau.lt/
-http://fontastic.me/
-http://fontcustom.com/
-http://mapglyphs.com/
-http://glyphsearch.com/
-http://paymentfont.io/
-http://evil-icons.io/
-http://weloveiconfonts.com/
-http://gemicon.net/
+http://fortawesome.github.io/Font-Awesome/  
+http://pfefferle.github.io/openwebicons/  
+http://fontello.com/  
+http://iconvau.lt/  
+http://fontastic.me/  
+http://fontcustom.com/  
+http://mapglyphs.com/  
+http://glyphsearch.com/  
+http://paymentfont.io/  
+http://evil-icons.io/  
+http://weloveiconfonts.com/  
+http://gemicon.net/  
+http://www.transformicons.com/  
 
 ##Free Photos
 https://unsplash.com/
