@@ -114,6 +114,7 @@ http://csste.st/
 ##Email
 http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/  
 https://litmus.com/scope/  
+http://www.leemunroe.com/sending-email-designers-developers/  
 
 ##Fonts and icons
 http://fortawesome.github.io/Font-Awesome/  
@@ -131,25 +132,25 @@ http://gemicon.net/
 http://www.transformicons.com/  
 
 ##Free Photos
-https://unsplash.com/
-http://pixabay.com/
-http://picjumbo.com/
-http://splitshire.com/
-http://www.gratisography.com/
-http://littlevisuals.co/
-http://getrefe.tumblr.com/
-http://www.imcreator.com/free
-http://picography.co/
-http://jaymantri.com/
-http://publicdomainarchive.com/
-http://magdeleine.co/
-https://stocksnap.io/
-http://thestocks.im/
-http://deathtothestockphoto.com/
-http://photopin.com/
-http://superfamous.com/
-http://nos.twnsnd.co/
-http://getrefe.tumblr.com/
-http://www.lifeofpix.com/
-http://snapwiresnaps.tumblr.com/
-http://lockandstockphotos.com/
+https://unsplash.com/  
+http://pixabay.com/  
+http://picjumbo.com/  
+http://splitshire.com/  
+http://www.gratisography.com/  
+http://littlevisuals.co/  
+http://getrefe.tumblr.com/  
+http://www.imcreator.com/free  
+http://picography.co/  
+http://jaymantri.com/  
+http://publicdomainarchive.com/  
+http://magdeleine.co/  
+https://stocksnap.io/  
+http://thestocks.im/  
+http://deathtothestockphoto.com/  
+http://photopin.com/  
+http://superfamous.com/  
+http://nos.twnsnd.co/  
+http://getrefe.tumblr.com/  
+http://www.lifeofpix.com/  
+http://snapwiresnaps.tumblr.com/  
+http://lockandstockphotos.com/  
