@@ -102,6 +102,12 @@ http://ionicframework.com/
 http://onsen.io/  
 http://www.idangero.us/framework7  
 
+##WordPress
+http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes  
+https://wordpress.org/plugins/zero-spam/  
+https://github.com/afragen/github-updater  
+
+
 ##Prototyping Tools
 http://prototypingtools.co/  
 http://sneakpeekit.com/  
