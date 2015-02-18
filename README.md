@@ -5,6 +5,7 @@ http://emmet.io/download/
 ##Unsorted
 http://sourceforge.net/  
 https://www.kickstarter.com/  
+https://www.virtkick.com/  
 
 ##Learning
 http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html  
@@ -97,12 +98,18 @@ http://heelhook.github.io/chardin.js/
 http://github.hubspot.com/offline/docs/welcome/  
 http://prismjs.com/  
 http://jquerymy.com/  
+http://phonegap.com/  
 
-##Mobile Apps
+##Mobile App frameworks
+http://propertycross.com/  
 http://ionicframework.com/  
 http://onsen.io/  
 http://www.idangero.us/framework7  
 http://foundation.zurb.com/apps/  
+http://ngcordova.com/  
+http://famo.us/  
+http://lungo.tapquo.com/  
+http://goratchet.com/getting-started/  
 
 ##WordPress
 http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes  
