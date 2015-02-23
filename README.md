@@ -1,6 +1,9 @@
-# tools
-An collection of frameworks to use in web development
-http://emmet.io/download/ 
+# tools  
+###An collection of frameworks to use in web development  
+http://emmet.io/download/  
+
+##Version Control
+http://keepachangelog.com/  
 
 ##Unsorted
 http://sourceforge.net/  
@@ -17,6 +20,7 @@ https://www.udacity.com/
 https://www.coursera.org/  
 https://www.edx.org/  
 http://www.git-tower.com/learn/  
+https://github.com/thomaspark/pubcss/
 
 ##Web Design
 http://web-design.alltop.com/  
@@ -85,6 +89,9 @@ http://purecss.io/
 http://patternlab.io/  
 https://developers.google.com/web/starter-kit/  
 http://www.google.com/design/  
+http://materializecss.com/  
+http://getkickstart.com/  
+https://ianlunn.github.io/Hover/  
 
 ##JavaScript libs
 http://www.javascripting.com/  
@@ -99,6 +106,7 @@ http://github.hubspot.com/offline/docs/welcome/
 http://prismjs.com/  
 http://jquerymy.com/  
 http://phonegap.com/  
+http://dgrid.io/  
 
 ##Mobile App frameworks
 http://propertycross.com/  
@@ -110,6 +118,7 @@ http://ngcordova.com/
 http://famo.us/  
 http://lungo.tapquo.com/  
 http://goratchet.com/getting-started/  
+http://qooxdoo.org/  
 
 ##WordPress
 http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes  
