@@ -92,6 +92,7 @@ http://www.google.com/design/
 http://materializecss.com/  
 http://getkickstart.com/  
 https://ianlunn.github.io/Hover/  
+https://www.polymer-project.org/  
 
 ##JavaScript libs
 http://www.javascripting.com/  
