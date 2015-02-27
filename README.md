@@ -1,6 +1,7 @@
 # tools  
 ###An collection of frameworks to use in web development  
 http://emmet.io/download/  
+http://perf-tooling.today/  
 
 ##Version Control
 http://keepachangelog.com/  
@@ -25,6 +26,23 @@ https://github.com/thomaspark/pubcss/
 ##Web Design
 http://web-design.alltop.com/  
 http://www.agiledesigners.com/  
+http://thenews.im/  
+http://www.webappers.com/  
+http://www.webresourcesdepot.com/  
+http://sixrevisions.com/  
+http://tutsplus.com/tutorials  
+https://www.thebestdesigns.com/  
+http://speckyboy.com/  
+http://tympanus.net/codrops/  
+https://css-tricks.com/  
+http://codevisually.com/  
+http://calltoidea.com/  
+http://webdesignerwall.com/  
+http://www.noupe.com/  
+http://tutorialzine.com/  
+
+
+
 
 ##Important Sites
 http://webplatformtools.org/  
