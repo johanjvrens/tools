@@ -3,14 +3,19 @@
 http://emmet.io/download/  
 http://perf-tooling.today/  
 http://www.cooper.com/prototyping-tools  
+http://espion.io/  
+
 
 ##Version Control
 http://keepachangelog.com/  
+
 
 ##Unsorted
 http://sourceforge.net/  
 https://www.kickstarter.com/  
 https://www.virtkick.com/  
+http://maxwellito.github.io/vivus/  
+
 
 ##Learning
 http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html  
@@ -23,6 +28,7 @@ https://www.coursera.org/
 https://www.edx.org/  
 http://www.git-tower.com/learn/  
 https://github.com/thomaspark/pubcss/
+
 
 ##Web Design
 http://web-design.alltop.com/  
@@ -43,8 +49,6 @@ http://www.noupe.com/
 http://tutorialzine.com/  
 
 
-
-
 ##Important Sites
 http://webplatformtools.org/  
 http://www.w3schools.com/  
@@ -52,16 +56,19 @@ http://www.w3.org/
 http://www.awwwards.com/  
 http://overapi.com/  
 
+
 ##Contracts
 http://www.docracy.com/  
 http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/  
 http://sixrevisions.com/project-management/tips-freelancer-design-contracts/  
 https://termsfeed.com/  
 
+
 ###License
 https://tldrlegal.com/  
 http://choosealicense.com/  
 https://www.iubenda.com/en  
+
 
 ##Online tools
 http://online-domain-tools.com/  
@@ -76,6 +83,7 @@ http://onmobile.iwanttouse.com/
 http://caniuse.com/  
 http://joshnh.com/tools/em-baseline-generator.html  
 http://cssshrink.com/  
+
 
 ##SEO
 https://developers.google.com/web/fundamentals/principles/  
@@ -97,6 +105,8 @@ http://moz.com/
 https://marketing.grader.com  
 http://nibbler.silktide.com/  
 http://www.sitespeed.io/  
+http://builtwith.com/  
+
 
 ##CSS Frameworks
 http://usablica.github.io/front-end-frameworks/compare.html  
@@ -113,6 +123,7 @@ http://getkickstart.com/
 https://ianlunn.github.io/Hover/  
 https://www.polymer-project.org/  
 
+
 ##JavaScript libs
 http://www.javascripting.com/  
 http://devdocs.io/  
@@ -128,6 +139,7 @@ http://jquerymy.com/
 http://phonegap.com/  
 http://dgrid.io/  
 
+
 ##Mobile App frameworks
 http://propertycross.com/  
 http://ionicframework.com/  
@@ -140,6 +152,7 @@ http://lungo.tapquo.com/
 http://goratchet.com/getting-started/  
 http://qooxdoo.org/  
 
+
 ##WordPress
 http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes  
 https://wordpress.org/plugins/zero-spam/  
@@ -150,15 +163,18 @@ https://github.com/afragen/github-updater
 http://prototypingtools.co/  
 http://sneakpeekit.com/  
 
+
 ##Testing
 https://github.com/facebookarchive/huxley  
 http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/  
 http://csste.st/  
 
+
 ##Email
 http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/  
 https://litmus.com/scope/  
 http://www.leemunroe.com/sending-email-designers-developers/  
+
 
 ##Fonts and icons
 http://fortawesome.github.io/Font-Awesome/  
@@ -174,6 +190,7 @@ http://evil-icons.io/
 http://weloveiconfonts.com/  
 http://gemicon.net/  
 http://www.transformicons.com/  
+
 
 ##Free Photos
 https://unsplash.com/  
@@ -199,8 +216,14 @@ http://www.lifeofpix.com/
 http://snapwiresnaps.tumblr.com/  
 http://lockandstockphotos.com/  
 
+
 ##js  
 http://vincentgarreau.com/particles.js/  
 
+
 ##css  
 http://simurai.com/blog/2014/10/01/front-links/  
+
+
+##Unix
+http://www.oliverelliott.org/article/computing/tut_unix  
