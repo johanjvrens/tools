@@ -1,5 +1,6 @@
 # tools  
-###An collection of frameworks to use in web development  
+
+##An collection of frameworks to use in web development  
 http://emmet.io/download/  
 http://perf-tooling.today/  
 http://www.cooper.com/prototyping-tools  
@@ -223,6 +224,8 @@ http://vincentgarreau.com/particles.js/
 
 ##css  
 http://simurai.com/blog/2014/10/01/front-links/  
+http://sixrevisions.com/lists/css-tools-you-should-be-using/
+https://github.com/bendc/frontend-guidelines
 
 
 ##Unix
