@@ -230,3 +230,7 @@ https://github.com/bendc/frontend-guidelines
 
 ##Unix
 http://www.oliverelliott.org/article/computing/tut_unix  
+
+
+##Data Science
+http://datasciencespecialization.github.io/  
