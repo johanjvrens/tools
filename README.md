@@ -11,13 +11,6 @@ http://espion.io/
 http://keepachangelog.com/  
 
 
-##Unsorted
-http://sourceforge.net/  
-https://www.kickstarter.com/  
-https://www.virtkick.com/  
-http://maxwellito.github.io/vivus/  
-
-
 ##Learning
 http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html  
 https://www.khanacademy.org/  
@@ -236,3 +229,10 @@ http://www.oliverelliott.org/article/computing/tut_unix
 http://datasciencespecialization.github.io/  
 http://cs109.github.io/2014/  
 https://leanpub.com/datastyle/  
+
+
+##Unsorted
+http://sourceforge.net/  
+https://www.kickstarter.com/  
+https://www.virtkick.com/  
+http://maxwellito.github.io/vivus/  
