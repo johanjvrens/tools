@@ -1,27 +1,11 @@
 # tools  
 
+
 ##An collection of frameworks to use in web development  
 http://emmet.io/download/  
 http://perf-tooling.today/  
 http://www.cooper.com/prototyping-tools  
 http://espion.io/  
-
-
-##Version Control
-http://keepachangelog.com/  
-
-
-##Learning
-http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html  
-https://www.khanacademy.org/  
-http://www.codecademy.com/  
-http://www.learnpython.org/  
-http://sqlzoo.net/wiki/Main_Page  
-https://www.udacity.com/  
-https://www.coursera.org/  
-https://www.edx.org/  
-http://www.git-tower.com/learn/  
-https://github.com/thomaspark/pubcss/
 
 
 ##Web Design
@@ -41,65 +25,6 @@ http://calltoidea.com/
 http://webdesignerwall.com/  
 http://www.noupe.com/  
 http://tutorialzine.com/  
-
-
-##Important Sites
-http://webplatformtools.org/  
-http://www.w3schools.com/  
-http://www.w3.org/  
-http://www.awwwards.com/  
-http://overapi.com/  
-
-
-##Contracts
-http://www.docracy.com/  
-http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/  
-http://sixrevisions.com/project-management/tips-freelancer-design-contracts/  
-https://termsfeed.com/  
-
-
-###License
-https://tldrlegal.com/  
-http://choosealicense.com/  
-https://www.iubenda.com/en  
-
-
-##Online tools
-http://online-domain-tools.com/  
-http://nerdydata.com/  
-http://builtwith.com/  
-http://css3generator.com/  
-http://tools.pingdom.com/fpt/  
-http://tools.maxcdn.com/procssor/  
-http://webdevchecklist.com/  
-http://meettheipsums.com/  
-http://onmobile.iwanttouse.com/  
-http://caniuse.com/  
-http://joshnh.com/tools/em-baseline-generator.html  
-http://cssshrink.com/  
-
-
-##SEO
-https://developers.google.com/web/fundamentals/principles/  
-https://developers.google.com/speed/pagespeed/insights/  
-https://developers.google.com/speed/webp/  
-https://developers.google.com/closure/  
-https://www.google.com/webmasters/tools/mobile-friendly/  
-http://validator.w3.org/  
-http://webcodetools.com/  
-http://perf-tooling.today/tools  
-https://github.com/davidsonfellipe/awesome-wpo  
-http://www.google.com/analytics/  
-https://www.google.com/webmasters  
-http://www.google.com/trends/  
-http://browserdiet.com/en/  
-http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715  
-https://segment.com/academy/the-quickest-wins-in-seo/  
-http://moz.com/  
-https://marketing.grader.com  
-http://nibbler.silktide.com/  
-http://www.sitespeed.io/  
-http://builtwith.com/  
 
 
 ##CSS Frameworks
@@ -145,6 +70,65 @@ http://famo.us/
 http://lungo.tapquo.com/  
 http://goratchet.com/getting-started/  
 http://qooxdoo.org/  
+
+
+##Important Sites
+http://webplatformtools.org/  
+http://www.w3schools.com/  
+http://www.w3.org/  
+http://www.awwwards.com/  
+http://overapi.com/  
+
+
+##Contracts
+http://www.docracy.com/  
+http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/  
+http://sixrevisions.com/project-management/tips-freelancer-design-contracts/  
+https://termsfeed.com/  
+
+
+##License
+https://tldrlegal.com/  
+http://choosealicense.com/  
+https://www.iubenda.com/en  
+
+
+##Online tools
+http://online-domain-tools.com/  
+http://nerdydata.com/  
+http://builtwith.com/  
+http://css3generator.com/  
+http://tools.pingdom.com/fpt/  
+http://tools.maxcdn.com/procssor/  
+http://webdevchecklist.com/  
+http://meettheipsums.com/  
+http://onmobile.iwanttouse.com/  
+http://caniuse.com/  
+http://joshnh.com/tools/em-baseline-generator.html  
+http://cssshrink.com/  
+
+
+##SEO
+https://developers.google.com/web/fundamentals/principles/  
+https://developers.google.com/speed/pagespeed/insights/  
+https://developers.google.com/speed/webp/  
+https://developers.google.com/closure/  
+https://www.google.com/webmasters/tools/mobile-friendly/  
+http://validator.w3.org/  
+http://webcodetools.com/  
+http://perf-tooling.today/tools  
+https://github.com/davidsonfellipe/awesome-wpo  
+http://www.google.com/analytics/  
+https://www.google.com/webmasters  
+http://www.google.com/trends/  
+http://browserdiet.com/en/  
+http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715  
+https://segment.com/academy/the-quickest-wins-in-seo/  
+http://moz.com/  
+https://marketing.grader.com  
+http://nibbler.silktide.com/  
+http://www.sitespeed.io/  
+http://builtwith.com/  
 
 
 ##WordPress
@@ -229,6 +213,23 @@ http://www.oliverelliott.org/article/computing/tut_unix
 http://datasciencespecialization.github.io/  
 http://cs109.github.io/2014/  
 https://leanpub.com/datastyle/  
+
+
+##Version Control
+http://keepachangelog.com/  
+
+
+##Learning
+http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html  
+https://www.khanacademy.org/  
+http://www.codecademy.com/  
+http://www.learnpython.org/  
+http://sqlzoo.net/wiki/Main_Page  
+https://www.udacity.com/  
+https://www.coursera.org/  
+https://www.edx.org/  
+http://www.git-tower.com/learn/  
+https://github.com/thomaspark/pubcss/
 
 
 ##Unsorted
