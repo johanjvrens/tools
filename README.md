@@ -41,6 +41,7 @@ http://materializecss.com/
 http://getkickstart.com/  
 https://ianlunn.github.io/Hover/  
 https://www.polymer-project.org/  
+https://www.muicss.com/  
 
 
 ##JavaScript libs
@@ -106,6 +107,10 @@ http://onmobile.iwanttouse.com/
 http://caniuse.com/  
 http://joshnh.com/tools/em-baseline-generator.html  
 http://cssshrink.com/  
+###SVG Tools
+http://picsvg.com/  
+###Name Generator
+http://businessnameapp.com/  
 
 
 ##SEO
@@ -168,6 +173,7 @@ http://evil-icons.io/
 http://weloveiconfonts.com/  
 http://gemicon.net/  
 http://www.transformicons.com/  
+http://svgicons.sparkk.fr/  
 
 
 ##Free Photos
@@ -197,6 +203,8 @@ http://lockandstockphotos.com/
 
 ##js  
 http://vincentgarreau.com/particles.js/  
+http://arasatasaygin.github.io/is.js/  
+http://sbstjn.github.io/timesheet.js/  
 
 
 ##css  
@@ -230,6 +238,9 @@ https://www.coursera.org/
 https://www.edx.org/  
 http://www.git-tower.com/learn/  
 https://github.com/thomaspark/pubcss/
+
+##SUnORE
+http://confagenda.audero.it/  
 
 
 ##Unsorted
