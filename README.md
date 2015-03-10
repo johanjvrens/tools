@@ -8,6 +8,11 @@ http://www.cooper.com/prototyping-tools
 http://espion.io/  
 
 
+##Web Hosting
+www.digitalocean.com/?refcode=34f774b765d5  
+http://www.hetzner.co.za/  
+
+
 ##Web Design
 http://web-design.alltop.com/  
 http://www.agiledesigners.com/  
