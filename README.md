@@ -134,6 +134,8 @@ https://marketing.grader.com
 http://nibbler.silktide.com/  
 http://www.sitespeed.io/  
 http://builtwith.com/  
+###Performance
+http://www.perf.rocks/  
 
 
 ##WordPress
@@ -174,6 +176,8 @@ http://weloveiconfonts.com/
 http://gemicon.net/  
 http://www.transformicons.com/  
 http://svgicons.sparkk.fr/  
+###Font tools
+http://jaicab.com/localFont/  
 
 
 ##Free Photos
@@ -205,6 +209,7 @@ http://lockandstockphotos.com/
 http://vincentgarreau.com/particles.js/  
 http://arasatasaygin.github.io/is.js/  
 http://sbstjn.github.io/timesheet.js/  
+https://angular.io/  
 
 
 ##css  
