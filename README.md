@@ -235,6 +235,7 @@ https://leanpub.com/datastyle/
 
 ##Version Control
 http://keepachangelog.com/  
+http://www.git-tower.com/  
 
 
 ##Learning
