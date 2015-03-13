@@ -148,6 +148,8 @@ http://www.perf.rocks/
 http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes  
 https://wordpress.org/plugins/zero-spam/  
 https://github.com/afragen/github-updater  
+http://www.wpexplorer.com/wordpress-seo-best-practices/  
+https://deliciousbrains.com/tour-wordpress-database/  
 
 
 ##Prototyping Tools
@@ -221,7 +223,8 @@ https://angular.io/
 ##css  
 http://simurai.com/blog/2014/10/01/front-links/  
 http://sixrevisions.com/lists/css-tools-you-should-be-using/
-https://github.com/bendc/frontend-guidelines
+https://github.com/bendc/frontend-guidelines  
+http://bensmithett.com/smarter-css-builds-with-webpack/  
 
 
 ##Unix
