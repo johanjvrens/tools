@@ -30,6 +30,7 @@ http://calltoidea.com/
 http://webdesignerwall.com/  
 http://www.noupe.com/  
 http://tutorialzine.com/  
+http://joelglovier.com/writing/design-advice-for-developers/  
 
 
 ##CSS Frameworks
