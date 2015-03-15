@@ -14,6 +14,14 @@ http://www.hetzner.co.za/
 http://co.za/whois.shtml   
 
 
+##Important Sites
+http://webplatformtools.org/  
+http://www.w3schools.com/  
+http://www.w3.org/  
+http://www.awwwards.com/  
+http://overapi.com/  
+
+
 ##Web Design
 http://web-design.alltop.com/  
 http://www.agiledesigners.com/  
@@ -79,14 +87,6 @@ http://famo.us/
 http://lungo.tapquo.com/  
 http://goratchet.com/getting-started/  
 http://qooxdoo.org/  
-
-
-##Important Sites
-http://webplatformtools.org/  
-http://www.w3schools.com/  
-http://www.w3.org/  
-http://www.awwwards.com/  
-http://overapi.com/  
 
 
 ##Contracts
