@@ -232,6 +232,9 @@ http://bensmithett.com/smarter-css-builds-with-webpack/
 ##Unix
 http://www.oliverelliott.org/article/computing/tut_unix  
 
+##Workflow  
+http://yeoman.io/  
+
 
 ##Data Science
 http://datasciencespecialization.github.io/  
