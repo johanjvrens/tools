@@ -228,6 +228,7 @@ http://simurai.com/blog/2014/10/01/front-links/
 http://sixrevisions.com/lists/css-tools-you-should-be-using/
 https://github.com/bendc/frontend-guidelines  
 http://bensmithett.com/smarter-css-builds-with-webpack/  
+http://cssanimation.rocks/  
 
 
 ##Unix
