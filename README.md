@@ -238,6 +238,8 @@ http://www.oliverelliott.org/article/computing/tut_unix
 http://yeoman.io/  
 http://angular-ui.github.io/bootstrap/  
 https://angular.io/  
+http://capistranorb.com/  
+https://roots.io/  
 
 
 ##Data Science
