@@ -280,6 +280,7 @@ https://www.edx.org/
 http://www.git-tower.com/learn/  
 https://github.com/thomaspark/pubcss/  
 https://www.udacity.com/course/ud882  
+https://www.khanacademy.org/computing/computer-science/algorithms  
 
 ##SUnORE
 http://confagenda.audero.it/  
