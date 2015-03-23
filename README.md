@@ -260,6 +260,8 @@ http://keepachangelog.com/
 http://www.git-tower.com/learn  
 http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/  
 http://hubpress.io/  
+http://gogs.io/  
+http://www.apertoire.net/gogs-an-alternative-to-gitlab/
 
 
 ##Learning
