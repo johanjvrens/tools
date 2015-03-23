@@ -226,6 +226,7 @@ http://arasatasaygin.github.io/is.js/
 http://sbstjn.github.io/timesheet.js/  
 https://angular.io/  
 http://riccardoscalco.github.io/textures/  
+http://jointjs.com/  
 
 
 ##css  
