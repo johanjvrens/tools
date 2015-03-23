@@ -164,7 +164,8 @@ http://sneakpeekit.com/
 https://github.com/facebookarchive/huxley  
 http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/  
 http://csste.st/  
-http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/  
+http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/ 
+http://phantomjs.org/   
 
 
 ##Email
@@ -248,12 +249,15 @@ https://roots.io/
 http://datasciencespecialization.github.io/  
 http://cs109.github.io/2014/  
 https://leanpub.com/datastyle/  
+###Database  
+https://github.com/emirozer/fake2db  
 
 
 ##Version Control
 http://keepachangelog.com/  
 http://www.git-tower.com/learn  
 http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/  
+http://hubpress.io/  
 
 
 ##Learning
