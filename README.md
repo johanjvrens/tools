@@ -58,6 +58,7 @@ https://ianlunn.github.io/Hover/
 https://www.polymer-project.org/  
 https://www.muicss.com/  
 http://www.html5depot.com/blackhole/  
+http://styleguide.sc5.io/  
 
 
 ##JavaScript libs
