@@ -195,6 +195,8 @@ http://www.transformicons.com/
 http://svgicons.sparkk.fr/  
 ###Font tools
 http://jaicab.com/localFont/  
+###Icon tools  
+https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93  
 
 
 ##Free Photos
@@ -257,6 +259,7 @@ https://leanpub.com/datastyle/
 ###R
 http://rmarkdown.rstudio.com/  
 http://yihui.name/knitr/demo/showcase/  
+https://www.sharelatex.com/learn/Knitr  
 ###Database  
 https://github.com/emirozer/fake2db  
 
