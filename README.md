@@ -256,6 +256,7 @@ http://cs109.github.io/2014/
 https://leanpub.com/datastyle/  
 ###R
 http://rmarkdown.rstudio.com/  
+http://yihui.name/knitr/demo/showcase/  
 ###Database  
 https://github.com/emirozer/fake2db  
 
