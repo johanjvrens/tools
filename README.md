@@ -255,7 +255,7 @@ http://datasciencespecialization.github.io/
 http://cs109.github.io/2014/  
 https://leanpub.com/datastyle/  
 ###R
-http://fasterstat.com/  
+http://rmarkdown.rstudio.com/  
 ###Database  
 https://github.com/emirozer/fake2db  
 
