@@ -250,6 +250,7 @@ http://angular-ui.github.io/bootstrap/
 https://angular.io/  
 http://capistranorb.com/  
 https://roots.io/  
+http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/  
 
 
 ##Data Science
