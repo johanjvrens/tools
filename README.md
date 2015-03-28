@@ -288,10 +288,7 @@ https://github.com/thomaspark/pubcss/
 https://www.udacity.com/course/ud882  
 https://www.khanacademy.org/computing/computer-science/algorithms  
 
-##SUnORE
-http://confagenda.audero.it/  
-
-
+ 
 ##Unsorted
 http://sourceforge.net/  
 https://www.kickstarter.com/  
@@ -301,4 +298,6 @@ http://resume.linkedinlabs.com/
 https://www.docker.com  
 
 
-#Resources
+#Projects
+##SUnORE
+http://confagenda.audero.it/ 
