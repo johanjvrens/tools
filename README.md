@@ -234,6 +234,7 @@ http://sbstjn.github.io/timesheet.js/
 https://angular.io/  
 http://riccardoscalco.github.io/textures/  
 http://jointjs.com/  
+https://mango.github.io/slideout/  
 
 
 ##css  
