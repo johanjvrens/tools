@@ -267,6 +267,7 @@ http://yihui.name/knitr/demo/showcase/
 https://www.sharelatex.com/learn/Knitr  
 http://rmaps.github.io/  
 http://sztanko.github.io/crosslet/  
+http://shiny.rstudio.com/  
 ###Database  
 https://github.com/emirozer/fake2db  
 
