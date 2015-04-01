@@ -77,6 +77,7 @@ http://prismjs.com/
 http://jquerymy.com/  
 http://phonegap.com/  
 http://dgrid.io/  
+http://davidwells.tv/code/responsible/  
 
 
 ##Mobile App frameworks
