@@ -269,6 +269,7 @@ https://www.sharelatex.com/learn/Knitr
 http://rmaps.github.io/  
 http://sztanko.github.io/crosslet/  
 http://shiny.rstudio.com/  
+http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/  
 ###Database  
 https://github.com/emirozer/fake2db  
 
