@@ -1,4 +1,4 @@
-# tools  
+# tools
 
 
 ##An collection of frameworks to use in web development  
@@ -172,8 +172,8 @@ http://sneakpeekit.com/
 https://github.com/facebookarchive/huxley  
 http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/  
 http://csste.st/  
-http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/ 
-http://phantomjs.org/   
+http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/  
+http://phantomjs.org/  
 
 
 ##Email
@@ -199,7 +199,7 @@ http://www.transformicons.com/
 http://svgicons.sparkk.fr/  
 ###Font tools
 http://jaicab.com/localFont/  
-###Icon tools  
+###Icon tools
 https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93  
 
 
@@ -228,7 +228,7 @@ http://snapwiresnaps.tumblr.com/
 http://lockandstockphotos.com/  
 
 
-##js  
+##js
 http://vincentgarreau.com/particles.js/  
 http://arasatasaygin.github.io/is.js/  
 http://sbstjn.github.io/timesheet.js/  
@@ -238,9 +238,9 @@ http://jointjs.com/
 https://mango.github.io/slideout/  
 
 
-##css  
+##css
 http://simurai.com/blog/2014/10/01/front-links/  
-http://sixrevisions.com/lists/css-tools-you-should-be-using/
+http://sixrevisions.com/lists/css-tools-you-should-be-using/  
 https://github.com/bendc/frontend-guidelines  
 http://bensmithett.com/smarter-css-builds-with-webpack/  
 http://cssanimation.rocks/  
@@ -249,7 +249,7 @@ http://cssanimation.rocks/
 ##Unix
 http://www.oliverelliott.org/article/computing/tut_unix  
 
-##Workflow  
+##Workflow
 http://yeoman.io/  
 http://angular-ui.github.io/bootstrap/  
 https://angular.io/  
@@ -270,7 +270,7 @@ http://rmaps.github.io/
 http://sztanko.github.io/crosslet/  
 http://shiny.rstudio.com/  
 http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/  
-###Database  
+###Database
 https://github.com/emirozer/fake2db  
 
 
@@ -280,7 +280,7 @@ http://www.git-tower.com/learn
 http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/  
 http://hubpress.io/  
 http://gogs.io/  
-http://www.apertoire.net/gogs-an-alternative-to-gitlab/
+http://www.apertoire.net/gogs-an-alternative-to-gitlab/  
 
 
 ##Learning
