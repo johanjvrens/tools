@@ -68,6 +68,7 @@ http://www.javascripting.com/
 http://devdocs.io/  
 http://libscore.com/  
 https://angularjs.org  
+http://angular-ui.github.io/  
 http://d3js.org/  
 http://maplacejs.com/  
 http://hpneo.github.io/gmaps/examples.html  
@@ -244,6 +245,7 @@ http://sixrevisions.com/lists/css-tools-you-should-be-using/
 https://github.com/bendc/frontend-guidelines  
 http://bensmithett.com/smarter-css-builds-with-webpack/  
 http://cssanimation.rocks/  
+https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05  
 
 
 ##Unix
