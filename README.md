@@ -59,8 +59,10 @@ https://www.polymer-project.org/
 https://www.muicss.com/  
 http://www.html5depot.com/blackhole/  
 http://styleguide.sc5.io/  
+http://www.codeply.com/  
 ##Bootstrap
 http://bootstrapzero.com/  
+http://cluckles.com/  
 
 
 ##JavaScript libs
@@ -175,6 +177,7 @@ http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browse
 http://csste.st/  
 http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/  
 http://phantomjs.org/  
+http://angular.github.io/protractor/#/  
 
 
 ##Email
