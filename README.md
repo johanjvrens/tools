@@ -316,3 +316,6 @@ https://www.docker.com
 #Projects
 ##SUnORE
 http://confagenda.audero.it/ 
+
+#Personal Intrests  
+http://karpathy.github.io/neuralnets/  
