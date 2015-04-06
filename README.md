@@ -302,6 +302,8 @@ http://www.git-tower.com/learn/
 https://github.com/thomaspark/pubcss/  
 https://www.udacity.com/course/ud882  
 https://www.khanacademy.org/computing/computer-science/algorithms  
+http://ocw.mit.edu/courses/find-by-topic/  
+https://www.openintro.org/  
 
  
 ##Unsorted
