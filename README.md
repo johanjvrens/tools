@@ -243,7 +243,8 @@ https://angular.io/
 http://riccardoscalco.github.io/textures/  
 http://jointjs.com/  
 https://mango.github.io/slideout/  
-
+###Angular
+https://github.com/johnpapa/angular-styleguide  
 
 ##css
 http://simurai.com/blog/2014/10/01/front-links/  
