@@ -1,4 +1,5 @@
-# tools
+# Analytic Tools
+Analytics is the process of transforming data into insights for making better decisions.
 
 
 ##An collection of frameworks to use in web development  
@@ -41,6 +42,7 @@ http://webdesignerwall.com/
 http://www.noupe.com/  
 http://tutorialzine.com/  
 http://joelglovier.com/writing/design-advice-for-developers/  
+http://thenews.im/  
 
 
 ##CSS Frameworks
