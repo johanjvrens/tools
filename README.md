@@ -268,6 +268,8 @@ http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/
 http://datasciencespecialization.github.io/  
 http://cs109.github.io/2014/  
 https://leanpub.com/datastyle/  
+https://leanpub.com/LittleInferenceBook  
+http://johnmacfarlane.net/pandoc/  
 ###R
 http://rmarkdown.rstudio.com/  
 http://yihui.name/knitr/demo/showcase/  
