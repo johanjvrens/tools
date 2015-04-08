@@ -1,6 +1,8 @@
 # Analytic Tools
 Analytics is the process of transforming data into insights for making better decisions.
 
+##Dev Tools
+https://atom.io/  
 
 ##An collection of frameworks to use in web development  
 http://emmet.io/download/  
