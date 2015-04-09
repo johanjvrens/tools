@@ -313,6 +313,7 @@ https://www.udacity.com/course/ud882
 https://www.khanacademy.org/computing/computer-science/algorithms  
 http://ocw.mit.edu/courses/find-by-topic/  
 https://www.openintro.org/  
+http://plato.stanford.edu/entries/game-theory/  
 
  
 ##Unsorted
