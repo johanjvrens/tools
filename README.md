@@ -3,6 +3,7 @@ Analytics is the process of transforming data into insights for making better de
 
 ##Dev Tools
 https://atom.io/  
+http://brackets.io/  
 
 ##An collection of frameworks to use in web development  
 http://emmet.io/download/  
@@ -237,6 +238,7 @@ http://getrefe.tumblr.com/
 http://www.lifeofpix.com/  
 http://snapwiresnaps.tumblr.com/  
 http://lockandstockphotos.com/  
+http://isorepublic.com/  
 
 
 ##js
