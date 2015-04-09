@@ -214,6 +214,7 @@ http://svgicons.sparkk.fr/
 http://jaicab.com/localFont/  
 ###Icon tools
 https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93  
+http://iconogen.com/  
 
 
 ##Free Photos
