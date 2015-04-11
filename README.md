@@ -270,6 +270,9 @@ http://bensmithett.com/smarter-css-builds-with-webpack/
 http://cssanimation.rocks/  
 https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05  
 
+##html
+https://samdutton.wordpress.com/2015/04/02/high-performance-html/  
+
 
 ##Unix
 http://www.oliverelliott.org/article/computing/tut_unix  
