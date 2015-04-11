@@ -262,6 +262,7 @@ https://mango.github.io/slideout/
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
 
+
 ##css
 http://simurai.com/blog/2014/10/01/front-links/  
 http://sixrevisions.com/lists/css-tools-you-should-be-using/  
@@ -270,12 +271,14 @@ http://bensmithett.com/smarter-css-builds-with-webpack/
 http://cssanimation.rocks/  
 https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05  
 
+
 ##html
 https://samdutton.wordpress.com/2015/04/02/high-performance-html/  
 
 
 ##Unix
 http://www.oliverelliott.org/article/computing/tut_unix  
+
 
 ##Workflow
 http://yeoman.io/  
@@ -347,3 +350,4 @@ http://confagenda.audero.it/
 
 #Personal Intrests  
 http://karpathy.github.io/neuralnets/  
+https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/  
