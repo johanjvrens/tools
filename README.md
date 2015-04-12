@@ -249,6 +249,8 @@ http://www.lifeofpix.com/
 http://snapwiresnaps.tumblr.com/  
 http://lockandstockphotos.com/  
 http://isorepublic.com/  
+###Free Videos
+https://videos.pexels.com/  
 
 
 ##js
