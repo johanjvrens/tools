@@ -272,6 +272,7 @@ https://github.com/bendc/frontend-guidelines
 http://bensmithett.com/smarter-css-builds-with-webpack/  
 http://cssanimation.rocks/  
 https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05  
+http://www.basscss.com/  
 
 
 ##html
