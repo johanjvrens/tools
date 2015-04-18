@@ -194,6 +194,7 @@ http://csste.st/
 http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/  
 http://phantomjs.org/  
 http://angular.github.io/protractor/#/  
+http://yahoo.github.io/blink-diff/  
 
 
 ##Email
