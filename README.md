@@ -72,6 +72,7 @@ http://formstone.it/
 ##Bootstrap
 http://bootstrapzero.com/  
 http://cluckles.com/  
+http://getfuelux.com/  
 
 
 ##JavaScript libs
@@ -221,6 +222,7 @@ http://jaicab.com/localFont/
 ###Icon tools
 https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93  
 http://iconogen.com/  
+https://epicfavicongenerator.com/  
 
 ##Colors
 http://flatuicolors.com/  
@@ -262,6 +264,7 @@ https://angular.io/
 http://riccardoscalco.github.io/textures/  
 http://jointjs.com/  
 https://mango.github.io/slideout/  
+http://rubaxa.github.io/Sortable/  
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
 
