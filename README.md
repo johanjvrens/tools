@@ -201,6 +201,7 @@ http://yahoo.github.io/blink-diff/
 http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/  
 https://litmus.com/scope/  
 http://www.leemunroe.com/sending-email-designers-developers/  
+http://glennsmith.me/email/framework/  
 
 
 ##Fonts and icons
