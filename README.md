@@ -325,6 +325,7 @@ http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/
 http://hubpress.io/  
 http://gogs.io/  
 http://www.apertoire.net/gogs-an-alternative-to-gitlab/  
+http://ricardofilipe.com/projects/firstaidgit/#/  
 
 
 ##Learning
