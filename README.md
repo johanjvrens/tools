@@ -138,6 +138,7 @@ http://caniuse.com/
 http://joshnh.com/tools/em-baseline-generator.html  
 http://cssshrink.com/  
 http://webflow.com  
+http://howtocenterincss.com/  
 ###PDF Tools  
 http://pdftotext.org/  
 ###SVG Tools
