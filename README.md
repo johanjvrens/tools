@@ -202,6 +202,7 @@ http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-develop
 https://litmus.com/scope/  
 http://www.leemunroe.com/sending-email-designers-developers/  
 http://glennsmith.me/email/framework/  
+http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails  
 
 
 ##Fonts and icons
