@@ -283,6 +283,7 @@ http://cssanimation.rocks/
 https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05  
 http://www.basscss.com/  
 http://styleguides.io/  
+http://codeguide.co/  
 ///grid
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 
