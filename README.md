@@ -74,6 +74,7 @@ http://bootstrapzero.com/
 http://cluckles.com/  
 http://getfuelux.com/  
 http://pingendo.com/  
+http://www.bootply.com/  
 
 
 ##JavaScript libs
@@ -109,6 +110,7 @@ http://goratchet.com/getting-started/
 http://qooxdoo.org/  
 https://www.nativescript.org/  
 http://reapp.io/  
+https://www.nativescript.org/  
 
 
 ##Contracts
