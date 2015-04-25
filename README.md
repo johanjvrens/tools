@@ -292,6 +292,7 @@ http://codeguide.co/
 http://wtfhtmlcss.com/  
 http://primercss.io/  
 https://github.com/katiefenn/parker  
+http://connoratherton.com/loaders  
 ///grid
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 
