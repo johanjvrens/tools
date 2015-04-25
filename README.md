@@ -112,6 +112,8 @@ https://www.nativescript.org/
 http://reapp.io/  
 https://www.nativescript.org/  
 
+##PC Apps
+http://electron.atom.io/  
 
 ##Contracts
 http://www.docracy.com/  
