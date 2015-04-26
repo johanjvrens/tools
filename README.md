@@ -267,6 +267,7 @@ http://lockandstockphotos.com/
 http://isorepublic.com/  
 http://freenaturestock.com/  
 http://startupstockphotos.com/  
+http://finda.photo/  
 ###Free Videos
 https://videos.pexels.com/  
 
