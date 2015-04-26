@@ -25,6 +25,7 @@ http://www.w3.org/
 http://www.awwwards.com/  
 http://overapi.com/  
 https://developer.mozilla.org/en-US/Learn  
+http://webdesignstack.com/  
 
 
 ##Web Design
