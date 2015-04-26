@@ -367,7 +367,8 @@ http://ocw.mit.edu/courses/find-by-topic/
 https://www.openintro.org/  
 http://plato.stanford.edu/entries/game-theory/  
 http://papl.cs.brown.edu/2014/  
-https://www.mysliderule.com/workshops/ux-design
+https://www.mysliderule.com/workshops/ux-design  
+http://hackr.io/  
 
  
 ##Unsorted
