@@ -335,6 +335,7 @@ http://rmaps.github.io/
 http://sztanko.github.io/crosslet/  
 http://shiny.rstudio.com/  
 http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/  
+http://adv-r.had.co.nz/  
 ###Database
 https://github.com/emirozer/fake2db  
 
@@ -383,6 +384,7 @@ https://www.docker.com
 #Projects
 ##SUnORE
 http://confagenda.audero.it/ 
+
 
 #Personal Intrests  
 http://karpathy.github.io/neuralnets/  
