@@ -381,6 +381,10 @@ http://resume.linkedinlabs.com/
 https://www.docker.com  
 
 
+#Dev
+##Python
+http://automatetheboringstuff.com/  
+
 #Projects
 ##SUnORE
 http://confagenda.audero.it/ 
