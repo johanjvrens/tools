@@ -327,6 +327,7 @@ http://cs109.github.io/2014/
 https://leanpub.com/datastyle/  
 https://leanpub.com/LittleInferenceBook  
 http://johnmacfarlane.net/pandoc/  
+https://github.com/nathanepstein/datakit  
 ###R
 http://rmarkdown.rstudio.com/  
 http://yihui.name/knitr/demo/showcase/  
