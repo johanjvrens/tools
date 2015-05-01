@@ -281,8 +281,11 @@ http://riccardoscalco.github.io/textures/
 http://jointjs.com/  
 https://mango.github.io/slideout/  
 http://rubaxa.github.io/Sortable/  
+http://bevacqua.github.io/dragula/  
+https://autocompeter.com/  
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
+http://angular-formly.com/#/  
 
 
 ##css
