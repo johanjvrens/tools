@@ -379,6 +379,7 @@ http://plato.stanford.edu/entries/game-theory/
 http://papl.cs.brown.edu/2014/  
 https://www.mysliderule.com/workshops/ux-design  
 http://hackr.io/  
+https://www.layerthemes.com/learn-wordpress-basics/  
 
  
 ##Unsorted
