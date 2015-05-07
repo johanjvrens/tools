@@ -101,6 +101,7 @@ http://c3js.org/
 ##Mobile App frameworks
 http://propertycross.com/  
 http://ionicframework.com/  
+http://play.ionic.io/  
 http://onsen.io/  
 http://www.idangero.us/framework7  
 http://foundation.zurb.com/apps/  
