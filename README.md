@@ -148,6 +148,7 @@ http://joshnh.com/tools/em-baseline-generator.html
 http://cssshrink.com/  
 http://webflow.com  
 http://howtocenterincss.com/  
+http://codebeautify.org/  
 ###PDF Tools  
 http://pdftotext.org/  
 ###SVG Tools
@@ -398,6 +399,7 @@ http://automatetheboringstuff.com/
 #Projects
 ##SUnORE
 http://confagenda.audero.it/ 
+http://www.tablesgenerator.com/  
 
 
 #Personal Intrests  
