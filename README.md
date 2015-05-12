@@ -249,8 +249,6 @@ http://flatuicolors.com/
 
 ##Free Photos
 https://unsplash.com/  
-http://pixabay.com/  
-http://picjumbo.com/  
 http://splitshire.com/  
 http://www.gratisography.com/  
 http://littlevisuals.co/  
@@ -265,6 +263,9 @@ http://freenaturestock.com/
 http://furiouscamera.com/  
 http://jaymantri.com/  
 http://jeshoots.com/  
+http://picjumbo.com/  
+http://picography.co/  
+http://pixabay.com/  
 http://publicdomainarchive.com/  
 http://magdeleine.co/  
 http://www.noblweb.com/  
