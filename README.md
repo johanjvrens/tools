@@ -259,6 +259,7 @@ http://www.imcreator.com/free
 http://picography.co/  
 http://fancycrave.com/  
 http://finda.photo/  
+http://freelyphotos.com/  
 http://freenaturestock.com/  
 http://furiouscamera.com/  
 http://jaymantri.com/  
