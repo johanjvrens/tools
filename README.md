@@ -257,6 +257,8 @@ http://littlevisuals.co/
 http://getrefe.tumblr.com/  
 http://www.imcreator.com/free  
 http://picography.co/  
+http://fancycrave.com/  
+http://finda.photo/  
 http://freenaturestock.com/  
 http://furiouscamera.com/  
 http://jaymantri.com/  
@@ -277,7 +279,6 @@ http://snapwiresnaps.tumblr.com/
 http://lockandstockphotos.com/  
 http://isorepublic.com/  
 http://startupstockphotos.com/  
-http://finda.photo/  
 http://cupcake.nilssonlee.se/  
 http://mmt.li/  
 ###Free Videos
