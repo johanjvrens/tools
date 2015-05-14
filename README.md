@@ -27,6 +27,7 @@ http://overapi.com/
 https://developer.mozilla.org/en-US/Learn  
 http://webdesignstack.com/  
 https://changelog.com/  
+https://github.com/sindresorhus/awesome  
 
 
 ##Web Design
