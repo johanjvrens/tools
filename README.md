@@ -377,6 +377,7 @@ http://gogs.io/
 http://www.apertoire.net/gogs-an-alternative-to-gitlab/  
 http://ricardofilipe.com/projects/firstaidgit/#/  
 https://sandstorm.io/  
+http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/  
 
 
 ##Learning
