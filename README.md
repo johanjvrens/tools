@@ -117,6 +117,8 @@ http://qooxdoo.org/
 https://www.nativescript.org/  
 http://reapp.io/  
 https://www.nativescript.org/  
+https://github.com/JetBrains/anko  
+https://github.com/pocorall/scaloid  
 
 ##PC Apps
 http://electron.atom.io/  
@@ -288,6 +290,7 @@ http://trunklog.com/
 https://unsplash.com/  
 http://www.sitebuilderreport.com/stock-up
 ###Free Videos
+http://makerbook.net/  
 https://videos.pexels.com/  
 
 
@@ -396,6 +399,13 @@ http://papl.cs.brown.edu/2014/
 https://www.mysliderule.com/workshops/ux-design  
 http://hackr.io/  
 https://www.layerthemes.com/learn-wordpress-basics/  
+###Specific
+http://www.codecademy.com/learn/learn-angularjs  
+https://www.google.com/about/careers/students/guide-to-technical-development.html  
+https://www.udacity.com/course/responsive-images--ud882  
+https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x  
+https://www.shortcutfoo.com/  
+http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html  
 
  
 ##Unsorted
