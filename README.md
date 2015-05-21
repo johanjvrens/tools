@@ -54,6 +54,7 @@ http://wwwhere.io/
 
 ##CSS Frameworks
 http://usablica.github.io/front-end-frameworks/compare.html  
+https://html5boilerplate.com/  
 http://semantic-ui.com/  
 http://foundation.zurb.com/  
 http://gumbyframework.com/  
@@ -436,3 +437,4 @@ https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisi
 http://pandoc.org/  
 http://code4sa.org/  
 https://github.com/CodeForAfrica  
+https://angularjs.org/  
