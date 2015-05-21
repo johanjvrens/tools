@@ -242,6 +242,7 @@ http://weloveiconfonts.com/
 http://gemicon.net/  
 http://www.transformicons.com/  
 http://svgicons.sparkk.fr/  
+https://smarticons.co/icons  
 ###Font tools
 http://jaicab.com/localFont/  
 ###Icon tools
