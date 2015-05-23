@@ -387,6 +387,7 @@ http://ricardofilipe.com/projects/firstaidgit/#/
 https://sandstorm.io/  
 http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/  
 http://akshaykumar6.github.io/github-js/#examples  
+http://gitup.co/  
 
 
 ##Learning
