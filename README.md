@@ -361,6 +361,7 @@ https://leanpub.com/datastyle/
 https://leanpub.com/LittleInferenceBook  
 http://johnmacfarlane.net/pandoc/  
 https://github.com/nathanepstein/datakit  
+http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/  
 ###R
 http://rmarkdown.rstudio.com/  
 http://yihui.name/knitr/demo/showcase/  
@@ -385,6 +386,7 @@ http://www.apertoire.net/gogs-an-alternative-to-gitlab/
 http://ricardofilipe.com/projects/firstaidgit/#/  
 https://sandstorm.io/  
 http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/  
+http://akshaykumar6.github.io/github-js/#examples  
 
 
 ##Learning
