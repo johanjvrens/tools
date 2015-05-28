@@ -337,6 +337,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 http://www.cssreflex.com/  
 ///grid
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
+https://philipwalton.github.io/solved-by-flexbox/  
 
 
 ##html
