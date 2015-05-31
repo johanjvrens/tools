@@ -437,6 +437,10 @@ https://www.docker.com
 ##Python
 http://automatetheboringstuff.com/  
 
+
+#Startups
+http://submit.co/  
+
 #Projects
 ##SUnORE
 http://confagenda.audero.it/ 
