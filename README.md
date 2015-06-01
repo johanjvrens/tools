@@ -378,6 +378,7 @@ http://shiny.rstudio.com/
 http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/  
 http://adv-r.had.co.nz/  
 https://beckmw.wordpress.com/tag/neural-network/  
+http://www.renjin.org/  
 ###Database
 https://github.com/emirozer/fake2db  
 
