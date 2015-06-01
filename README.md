@@ -250,6 +250,7 @@ http://gemicon.net/
 http://www.transformicons.com/  
 http://svgicons.sparkk.fr/  
 https://smarticons.co/icons  
+https://www.google.com/design/icons/  
 ###Font tools
 http://jaicab.com/localFont/  
 ###Icon tools
