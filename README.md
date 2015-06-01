@@ -426,6 +426,8 @@ https://www.udacity.com/course/responsive-images--ud882
 https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x  
 https://www.shortcutfoo.com/  
 http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html  
+###Books
+http://hackershelf.com/browse/?popular=1  
 
  
 ##Unsorted
