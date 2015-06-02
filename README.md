@@ -381,6 +381,9 @@ http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-thin
 http://adv-r.had.co.nz/  
 https://beckmw.wordpress.com/tag/neural-network/  
 http://www.renjin.org/  
+https://www.opencpu.org/  
+http://rapache.net/  
+http://rpy.sourceforge.net/rpy2.html  
 ###Database
 https://github.com/emirozer/fake2db  
 
