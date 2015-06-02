@@ -384,6 +384,7 @@ http://www.renjin.org/
 https://www.opencpu.org/  
 http://rapache.net/  
 http://rpy.sourceforge.net/rpy2.html  
+http://rcharts.io/  
 ###Database
 https://github.com/emirozer/fake2db  
 
