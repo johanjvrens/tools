@@ -385,6 +385,7 @@ https://www.opencpu.org/
 http://rapache.net/  
 http://rpy.sourceforge.net/rpy2.html  
 http://rcharts.io/  
+https://yhathq.com/  
 ###Database
 https://github.com/emirozer/fake2db  
 
