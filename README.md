@@ -203,6 +203,7 @@ http://www.wpexplorer.com/wordpress-seo-best-practices/
 https://deliciousbrains.com/tour-wordpress-database/  
 http://pinegrow.com/wordpress-theme-builder.html  
 https://www.layerthemes.com/wordpress-developer-resources/  
+http://premium.wpmudev.org/blog/customize-login-page/?nlv=d&utm_expid=3606929-35.im_xHH3rTkmdlc6O7wpMUQ.3  
 
 
 ##Prototyping Tools
@@ -456,6 +457,7 @@ http://submit.co/
 ##SUnORE
 http://confagenda.audero.it/ 
 http://www.tablesgenerator.com/  
+http://gofore.com/ohjelmistokehitys/stop-using-bower/  
 
 
 #Personal Intrests  
