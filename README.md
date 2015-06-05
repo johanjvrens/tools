@@ -29,6 +29,7 @@ https://developer.mozilla.org/en-US/Learn
 http://webdesignstack.com/  
 https://changelog.com/  
 https://github.com/sindresorhus/awesome  
+http://bitsofco.de/2015/the-accessibility-cheatsheet/  
 
 
 ##Web Design
