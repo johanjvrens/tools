@@ -259,6 +259,7 @@ http://jaicab.com/localFont/
 https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93  
 http://iconogen.com/  
 https://epicfavicongenerator.com/  
+http://simplesharingbuttons.com/  
 
 ##Colors
 http://flatuicolors.com/  
