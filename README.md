@@ -127,6 +127,7 @@ http://reapp.io/
 https://www.nativescript.org/  
 https://github.com/JetBrains/anko  
 https://github.com/pocorall/scaloid  
+http://www.manifoldjs.com/  
 
 ##PC Apps
 http://electron.atom.io/  
