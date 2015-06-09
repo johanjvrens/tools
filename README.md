@@ -469,6 +469,7 @@ http://gofore.com/ohjelmistokehitys/stop-using-bower/
 
 #Mac
 http://brewformulas.org/  
+http://brew.sh/  
 
 #Personal Intrests  
 http://karpathy.github.io/neuralnets/  
