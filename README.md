@@ -467,6 +467,9 @@ http://www.tablesgenerator.com/
 http://gofore.com/ohjelmistokehitys/stop-using-bower/  
 
 
+#Mac
+http://brewformulas.org/  
+
 #Personal Intrests  
 http://karpathy.github.io/neuralnets/  
 https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/  
