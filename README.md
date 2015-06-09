@@ -394,6 +394,13 @@ http://rapache.net/
 http://rpy.sourceforge.net/rpy2.html  
 http://rcharts.io/  
 https://yhathq.com/  
+####Pakages
+devtools  
+caret  
+ggplot2  
+plyr  
+manipulate  
+
 ###Database
 https://github.com/emirozer/fake2db  
 
