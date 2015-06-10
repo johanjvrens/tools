@@ -24,6 +24,7 @@ http://www.w3schools.com/
 http://www.w3.org/  
 https://www.w3.org/developers/tools  
 http://schema.org/  
+http://html5bookmarks.com/  
 http://www.awwwards.com/  
 http://overapi.com/  
 https://developer.mozilla.org/en-US/Learn  
