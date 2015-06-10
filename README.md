@@ -268,6 +268,7 @@ https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d88
 http://iconogen.com/  
 https://epicfavicongenerator.com/  
 http://simplesharingbuttons.com/  
+http://realfavicongenerator.net/  
 
 ##Colors
 http://flatuicolors.com/  
