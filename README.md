@@ -66,6 +66,7 @@ http://gumbyframework.com/
 http://getuikit.com/  
 http://purecss.io/  
 http://patternlab.io/  
+http://getpreboot.com/  
 https://developers.google.com/web/starter-kit/  
 http://www.google.com/design/  
 http://materializecss.com/  
@@ -83,10 +84,16 @@ http://daemonite.github.io/material/index.html
 http://decorator.codable.org/  
 ##Bootstrap
 http://bootstrapzero.com/  
+http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/  
 http://cluckles.com/  
 http://getfuelux.com/  
 http://pingendo.com/  
 http://www.bootply.com/  
+http://bootswatch.com/  
+https://wrapbootstrap.com/  
+http://bootsnipp.com/  
+https://fezvrasta.github.io/bootstrap-material-design/#getting-started  
+http://startbootstrap.com/  
 
 
 ##JavaScript libs
@@ -217,6 +224,16 @@ https://deliciousbrains.com/tour-wordpress-database/
 http://pinegrow.com/wordpress-theme-builder.html  
 https://www.layerthemes.com/wordpress-developer-resources/  
 http://premium.wpmudev.org/blog/customize-login-page/?nlv=d&utm_expid=3606929-35.im_xHH3rTkmdlc6O7wpMUQ.3  
+http://filipstefansson.com/bootstrap-3-shortcodes/  
+https://github.com/filipstefansson/bootstrap-3-shortcodes  
+http://gantry.org/  
+http://generatewp.com/  
+https://ghost.org/  
+https://gplclub.org/  
+http://wptest.io/  
+https://github.com/jonathanrcarter/push2press  
+http://getherbert.com/  
+https://wppusher.com/  
 
 
 ##Prototyping Tools
@@ -249,6 +266,7 @@ https://github.com/sparkbox/email-lab
 http://emailframe.work/  
 http://greatemailcopy.tumblr.com/  
 https://beefree.io/index.html  
+http://zurb.com/ink/  
 
 
 ##Fonts and icons
@@ -342,6 +360,10 @@ http://www.jsgraphs.com/
 https://conversejs.org/  
 https://highlightjs.org/  
 http://superherojs.com/  
+http://datatables.net/  
+http://usablica.github.io/intro.js/  
+http://heelhook.github.io/chardin.js/  
+http://facebook.github.io/react/  
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
 http://angular-formly.com/#/  
@@ -481,6 +503,7 @@ https://www.docker.com
 http://automatetheboringstuff.com/  
 ##Php
 http://www.phpdoc.org/  
+https://phalconphp.com/en/  
 
 
 #Startups
