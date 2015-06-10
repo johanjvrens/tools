@@ -140,6 +140,7 @@ http://electron.atom.io/
 http://www.docracy.com/  
 http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/  
 http://sixrevisions.com/project-management/tips-freelancer-design-contracts/  
+http://www.crowdspring.com/contracts-for-graphic-designers/  
 https://termsfeed.com/  
 
 
