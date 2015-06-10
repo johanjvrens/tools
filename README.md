@@ -199,6 +199,7 @@ http://nibbler.silktide.com/
 http://www.sitespeed.io/  
 http://builtwith.com/  
 http://inpage-seo-checker.eventsofa.de/  
+http://toolbox.seerinteractive.com/  
 ###Performance
 http://www.perf.rocks/  
 http://yellowlab.tools/  
