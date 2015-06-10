@@ -205,6 +205,7 @@ http://www.perf.rocks/
 http://yellowlab.tools/  
 http://www.wpspeedster.com/  
 https://github.com/davidsonfellipe/awesome-wpo  
+https://cdnify.com/discover/web-performance-guide  
 
 
 ##WordPress
