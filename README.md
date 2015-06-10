@@ -199,6 +199,7 @@ http://builtwith.com/
 http://www.perf.rocks/  
 http://yellowlab.tools/  
 http://www.wpspeedster.com/  
+https://github.com/davidsonfellipe/awesome-wpo  
 
 
 ##WordPress
