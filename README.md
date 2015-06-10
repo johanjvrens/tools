@@ -239,6 +239,7 @@ http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails
 https://github.com/sparkbox/email-lab  
 http://emailframe.work/  
 http://greatemailcopy.tumblr.com/  
+https://beefree.io/index.html  
 
 
 ##Fonts and icons
