@@ -340,6 +340,7 @@ https://autocompeter.com/
 http://www.jsgraphs.com/  
 https://conversejs.org/  
 https://highlightjs.org/  
+http://superherojs.com/  
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
 http://angular-formly.com/#/  
