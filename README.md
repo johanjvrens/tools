@@ -333,6 +333,7 @@ http://bevacqua.github.io/dragula/
 https://autocompeter.com/  
 http://www.jsgraphs.com/  
 https://conversejs.org/  
+https://highlightjs.org/  
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
 http://angular-formly.com/#/  
@@ -355,6 +356,7 @@ https://github.com/springload/css-reporter
 http://connoratherton.com/loaders  
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference  
 http://www.cssreflex.com/  
+http://cssguidelin.es/  
 ///grid
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 https://philipwalton.github.io/solved-by-flexbox/  
