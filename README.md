@@ -54,6 +54,10 @@ http://tutorialzine.com/
 http://joelglovier.com/writing/design-advice-for-developers/  
 http://thenews.im/  
 http://wwwhere.io/  
+http://www.techi.com/  
+http://www.brandingserved.com/  
+https://www.behance.net/  
+http://www.smashingmagazine.com/  
 
 
 ##CSS Frameworks
@@ -456,6 +460,7 @@ https://sandstorm.io/
 http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/  
 http://akshaykumar6.github.io/github-js/#examples  
 http://gitup.co/  
+https://github.com/blog/2019-how-to-undo-almost-anything-with-git  
 
 
 ##Learning
