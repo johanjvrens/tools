@@ -395,6 +395,8 @@ http://cssguidelin.es/
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 https://philipwalton.github.io/solved-by-flexbox/  
 
+##svg
+https://svgontheweb.com/  
 
 ##html
 https://samdutton.wordpress.com/2015/04/02/high-performance-html/  
