@@ -539,3 +539,4 @@ http://code4sa.org/
 https://github.com/CodeForAfrica  
 https://angularjs.org/  
 https://formden.com/form-builder/  
+http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html  
