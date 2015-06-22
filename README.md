@@ -86,6 +86,7 @@ http://sanographix.github.io/rin/
 http://formstone.it/  
 http://daemonite.github.io/material/index.html  
 http://decorator.codable.org/  
+https://market.styleguide.envato.com/structures/checkout/review_order  
 ##Bootstrap
 http://bootstrapzero.com/  
 http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/  
@@ -368,6 +369,7 @@ http://datatables.net/
 http://usablica.github.io/intro.js/  
 http://heelhook.github.io/chardin.js/  
 http://facebook.github.io/react/  
+
 ###Angular
 https://github.com/johnpapa/angular-styleguide  
 http://angular-formly.com/#/  
