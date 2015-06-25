@@ -306,8 +306,8 @@ http://flatuicolors.com/
 http://subtlepatterns.com/  
 http://www.checkman.io/please/  
 
-
-##Free Photos
+##Free Media to use on your site
+###Free Photos
 http://cupcake.nilssonlee.se/  
 http://deathtothestockphoto.com/  
 http://fancycrave.com/  
@@ -350,6 +350,8 @@ http://www.sitebuilderreport.com/stock-up
 http://makerbook.net/  
 https://videos.pexels.com/  
 http://www.coverr.co/  
+###Free Music
+http://www.noupe.com/essentials/thou-shalt-not-steal-free-music-for-your-videos-and-websites-79992.html  
 
 
 ##js
