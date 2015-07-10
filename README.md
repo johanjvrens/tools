@@ -243,6 +243,8 @@ http://wptest.io/
 https://github.com/jonathanrcarter/push2press  
 http://getherbert.com/  
 https://wppusher.com/  
+http://wpplugindirectory.org/  
+http://tidyrepo.com/  
 
 
 ##Prototyping Tools
