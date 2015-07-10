@@ -110,6 +110,7 @@ http://libscore.com/
 https://angularjs.org  
 http://angular-ui.github.io/  
 http://d3js.org/  
+https://github.com/wbkd/awesome-d3  
 http://maplacejs.com/  
 http://hpneo.github.io/gmaps/examples.html  
 http://heelhook.github.io/chardin.js/  
