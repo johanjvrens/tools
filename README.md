@@ -306,6 +306,7 @@ http://iconogen.com/
 https://epicfavicongenerator.com/  
 http://simplesharingbuttons.com/  
 http://realfavicongenerator.net/  
+http://blog.clearbit.com/  
 
 ##Colors
 http://flatuicolors.com/  
