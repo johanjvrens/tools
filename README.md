@@ -247,6 +247,7 @@ http://getherbert.com/
 https://wppusher.com/  
 http://wpplugindirectory.org/  
 http://tidyrepo.com/  
+http://code.tutsplus.com/tutorials/build-a-custom-wordpress-user-flow-part-1-replace-the-login-page--cms-23627  
 
 
 ##Prototyping Tools
