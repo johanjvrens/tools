@@ -13,9 +13,9 @@ http://espion.io/
 
 
 ##Web Hosting
-www.digitalocean.com/?refcode=34f774b765d5  
+http://www.digitalocean.com/?refcode=34f774b765d5  
 http://www.hetzner.co.za/  
-http://co.za/whois.shtml   
+http://co.za/whois.shtml
 
 
 ##Important Sites
@@ -407,7 +407,7 @@ http://connoratherton.com/loaders
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference  
 http://www.cssreflex.com/  
 http://cssguidelin.es/  
-///grid
+###grid
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 https://philipwalton.github.io/solved-by-flexbox/  
 
@@ -513,7 +513,7 @@ http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
 ###Books
 http://hackershelf.com/browse/?popular=1  
 
- 
+
 ##Unsorted
 http://sourceforge.net/  
 https://www.kickstarter.com/  
@@ -536,7 +536,7 @@ http://submit.co/
 
 #Projects
 ##SUnORE
-http://confagenda.audero.it/ 
+http://confagenda.audero.it/
 http://www.tablesgenerator.com/  
 http://gofore.com/ohjelmistokehitys/stop-using-bower/  
 http://cleanthesis.der-ric.de/  
