@@ -1,557 +1,164 @@
 # Analytic Tools
 Analytics is the process of transforming data into insights for making better decisions.
 
-##Dev Tools
-https://atom.io/  
-http://brackets.io/  
+## Dev Tools
+[https://atom.io/](https://atom.io/)<br>[http://brackets.io/](http://brackets.io/)  
 
-##An collection of frameworks to use in web development  
-http://emmet.io/download/  
-http://perf-tooling.today/  
-http://www.cooper.com/prototyping-tools  
-http://espion.io/  
+## An collection of frameworks to use in web development
+[http://emmet.io/download/](http://emmet.io/download/)<br>[http://perf-tooling.today/](http://perf-tooling.today/)<br>[http://www.cooper.com/prototyping-tools](http://www.cooper.com/prototyping-tools)<br>[http://espion.io/](http://espion.io/)  
 
+## Web Hosting
+[http://www.digitalocean.com/?refcode=34f774b765d5](http://www.digitalocean.com/?refcode=34f774b765d5)<br>[http://www.hetzner.co.za/](http://www.hetzner.co.za/)<br>[http://co.za/whois.shtml](http://co.za/whois.shtml)
 
-##Web Hosting
-http://www.digitalocean.com/?refcode=34f774b765d5  
-http://www.hetzner.co.za/  
-http://co.za/whois.shtml
+## Important Sites
+[http://webplatformtools.org/](http://webplatformtools.org/)<br>[http://www.w3schools.com/](http://www.w3schools.com/)<br>[http://www.w3.org/](http://www.w3.org/)<br>[https://www.w3.org/developers/tools](https://www.w3.org/developers/tools)<br>[http://validator.w3.org/mobile-alpha/](http://validator.w3.org/mobile-alpha/)<br>[http://schema.org/](http://schema.org/)<br>[http://html5bookmarks.com/](http://html5bookmarks.com/)<br>[http://www.awwwards.com/](http://www.awwwards.com/)<br>[http://overapi.com/](http://overapi.com/)<br>[https://developer.mozilla.org/en-US/Learn](https://developer.mozilla.org/en-US/Learn)<br>[http://webdesignstack.com/](http://webdesignstack.com/)<br>[https://changelog.com/](https://changelog.com/)<br>[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>[http://bitsofco.de/2015/the-accessibility-cheatsheet/](http://bitsofco.de/2015/the-accessibility-cheatsheet/)  
 
+## Web Design
+[http://web-design.alltop.com/](http://web-design.alltop.com/)<br>[http://www.agiledesigners.com/](http://www.agiledesigners.com/)<br>[http://thenews.im/](http://thenews.im/)<br>[http://www.webappers.com/](http://www.webappers.com/)<br>[http://www.webresourcesdepot.com/](http://www.webresourcesdepot.com/)<br>[http://sixrevisions.com/](http://sixrevisions.com/)<br>[http://tutsplus.com/tutorials](http://tutsplus.com/tutorials)<br>[https://www.thebestdesigns.com/](https://www.thebestdesigns.com/)<br>[http://speckyboy.com/](http://speckyboy.com/)<br>[http://tympanus.net/codrops/](http://tympanus.net/codrops/)<br>[https://css-tricks.com/](https://css-tricks.com/)<br>[http://codevisually.com/](http://codevisually.com/)<br>[http://calltoidea.com/](http://calltoidea.com/)<br>[http://webdesignerwall.com/](http://webdesignerwall.com/)<br>[http://www.noupe.com/](http://www.noupe.com/)<br>[http://tutorialzine.com/](http://tutorialzine.com/)<br>[http://joelglovier.com/writing/design-advice-for-developers/](http://joelglovier.com/writing/design-advice-for-developers/)<br>[http://thenews.im/](http://thenews.im/)<br>[http://wwwhere.io/](http://wwwhere.io/)<br>[http://www.techi.com/](http://www.techi.com/)<br>[http://www.brandingserved.com/](http://www.brandingserved.com/)<br>[https://www.behance.net/](https://www.behance.net/)<br>[http://www.smashingmagazine.com/](http://www.smashingmagazine.com/)  
 
-##Important Sites
-http://webplatformtools.org/  
-http://www.w3schools.com/  
-http://www.w3.org/  
-https://www.w3.org/developers/tools  
-http://validator.w3.org/mobile-alpha/  
-http://schema.org/  
-http://html5bookmarks.com/  
-http://www.awwwards.com/  
-http://overapi.com/  
-https://developer.mozilla.org/en-US/Learn  
-http://webdesignstack.com/  
-https://changelog.com/  
-https://github.com/sindresorhus/awesome  
-http://bitsofco.de/2015/the-accessibility-cheatsheet/  
+## CSS Frameworks
+[http://usablica.github.io/front-end-frameworks/compare.html](http://usablica.github.io/front-end-frameworks/compare.html)<br>[https://html5boilerplate.com/](https://html5boilerplate.com/)<br>[https://developers.google.com/web/tools/polymer-starter-kit/](https://developers.google.com/web/tools/polymer-starter-kit/)<br>[http://www.basscss.com/](http://www.basscss.com/)<br>[http://semantic-ui.com/](http://semantic-ui.com/)<br>[http://foundation.zurb.com/](http://foundation.zurb.com/)<br>[http://www.getmdl.io/index.html](http://www.getmdl.io/index.html)<br>[http://gumbyframework.com/](http://gumbyframework.com/)<br>[http://getuikit.com/](http://getuikit.com/)<br>[http://purecss.io/](http://purecss.io/)<br>[http://patternlab.io/](http://patternlab.io/)<br>[http://getpreboot.com/](http://getpreboot.com/)<br>[https://developers.google.com/web/starter-kit/](https://developers.google.com/web/starter-kit/)<br>[http://www.google.com/design/](http://www.google.com/design/)<br>[http://materializecss.com/](http://materializecss.com/)<br>[http://getkickstart.com/](http://getkickstart.com/)<br>[https://ianlunn.github.io/Hover/](https://ianlunn.github.io/Hover/)<br>[https://www.polymer-project.org/](https://www.polymer-project.org/)<br>[https://www.muicss.com/](https://www.muicss.com/)<br>[http://www.html5depot.com/blackhole/](http://www.html5depot.com/blackhole/)<br>[http://styleguide.sc5.io/](http://styleguide.sc5.io/)<br>[http://www.codeply.com/](http://www.codeply.com/)<br>[http://titon.io/en/toolkit](http://titon.io/en/toolkit)<br>[http://sanographix.github.io/rin/](http://sanographix.github.io/rin/)<br>[http://formstone.it/](http://formstone.it/)<br>[http://daemonite.github.io/material/index.html](http://daemonite.github.io/material/index.html)<br>[http://decorator.codable.org/](http://decorator.codable.org/)<br>[https://market.styleguide.envato.com/structures/checkout/review_order](https://market.styleguide.envato.com/structures/checkout/review_order)  
 
+## Bootstrap
+[http://bootstrapzero.com/](http://bootstrapzero.com/)<br>[http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/)<br>[http://cluckles.com/](http://cluckles.com/)<br>[http://getfuelux.com/](http://getfuelux.com/)<br>[http://pingendo.com/](http://pingendo.com/)<br>[http://www.bootply.com/](http://www.bootply.com/)<br>[http://bootswatch.com/](http://bootswatch.com/)<br>[https://wrapbootstrap.com/](https://wrapbootstrap.com/)<br>[http://bootsnipp.com/](http://bootsnipp.com/)<br>[https://fezvrasta.github.io/bootstrap-material-design/#getting-started](https://fezvrasta.github.io/bootstrap-material-design/#getting-started)<br>[http://startbootstrap.com/](http://startbootstrap.com/)  
 
-##Web Design
-http://web-design.alltop.com/  
-http://www.agiledesigners.com/  
-http://thenews.im/  
-http://www.webappers.com/  
-http://www.webresourcesdepot.com/  
-http://sixrevisions.com/  
-http://tutsplus.com/tutorials  
-https://www.thebestdesigns.com/  
-http://speckyboy.com/  
-http://tympanus.net/codrops/  
-https://css-tricks.com/  
-http://codevisually.com/  
-http://calltoidea.com/  
-http://webdesignerwall.com/  
-http://www.noupe.com/  
-http://tutorialzine.com/  
-http://joelglovier.com/writing/design-advice-for-developers/  
-http://thenews.im/  
-http://wwwhere.io/  
-http://www.techi.com/  
-http://www.brandingserved.com/  
-https://www.behance.net/  
-http://www.smashingmagazine.com/  
+## JavaScript libs
+[http://www.javascripting.com/](http://www.javascripting.com/)<br>[http://devdocs.io/](http://devdocs.io/)<br>[http://libscore.com/](http://libscore.com/)<br>[https://angularjs.org](https://angularjs.org)<br>[http://angular-ui.github.io/](http://angular-ui.github.io/)<br>[http://d3js.org/](http://d3js.org/)<br>[https://github.com/wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)<br>[http://maplacejs.com/](http://maplacejs.com/)<br>[http://hpneo.github.io/gmaps/examples.html](http://hpneo.github.io/gmaps/examples.html)<br>[http://heelhook.github.io/chardin.js/](http://heelhook.github.io/chardin.js/)<br>[http://github.hubspot.com/offline/docs/welcome/](http://github.hubspot.com/offline/docs/welcome/)<br>[http://prismjs.com/](http://prismjs.com/)<br>[http://jquerymy.com/](http://jquerymy.com/)<br>[http://phonegap.com/](http://phonegap.com/)<br>[http://dgrid.io/](http://dgrid.io/)<br>[http://davidwells.tv/code/responsible/](http://davidwells.tv/code/responsible/)<br>[http://threejs.org/](http://threejs.org/)<br>[http://c3js.org/](http://c3js.org/)<br>[http://todomvc.com/](http://todomvc.com/)<br>[http://jsblocks.com/](http://jsblocks.com/)<br>[https://github.com/davidwells/responsible](https://github.com/davidwells/responsible)<br>[http://coffeescript.org/](http://coffeescript.org/)<br>[http://webpack.github.io/](http://webpack.github.io/)  
 
+## Mobile App frameworks
+[http://propertycross.com/](http://propertycross.com/)<br>[http://ionicframework.com/](http://ionicframework.com/)<br>[https://apps.ionic.io/](https://apps.ionic.io/)<br>[http://play.ionic.io/](http://play.ionic.io/)<br>[http://onsen.io/](http://onsen.io/)<br>[http://www.idangero.us/framework7](http://www.idangero.us/framework7)<br>[http://foundation.zurb.com/apps/](http://foundation.zurb.com/apps/)<br>[http://ngcordova.com/](http://ngcordova.com/)<br>[http://famo.us/](http://famo.us/)<br>[http://lungo.tapquo.com/](http://lungo.tapquo.com/)<br>[http://goratchet.com/getting-started/](http://goratchet.com/getting-started/)<br>[http://qooxdoo.org/](http://qooxdoo.org/)<br>[https://www.nativescript.org/](https://www.nativescript.org/)<br>[http://reapp.io/](http://reapp.io/)<br>[https://www.nativescript.org/](https://www.nativescript.org/)<br>[https://github.com/JetBrains/anko](https://github.com/JetBrains/anko)<br>[https://github.com/pocorall/scaloid](https://github.com/pocorall/scaloid)<br>[http://www.manifoldjs.com/](http://www.manifoldjs.com/)  
 
-##CSS Frameworks
-http://usablica.github.io/front-end-frameworks/compare.html  
-https://html5boilerplate.com/  
-https://developers.google.com/web/tools/polymer-starter-kit/  
-http://www.basscss.com/  
-http://semantic-ui.com/  
-http://foundation.zurb.com/  
-http://www.getmdl.io/index.html  
-http://gumbyframework.com/  
-http://getuikit.com/  
-http://purecss.io/  
-http://patternlab.io/  
-http://getpreboot.com/  
-https://developers.google.com/web/starter-kit/  
-http://www.google.com/design/  
-http://materializecss.com/  
-http://getkickstart.com/  
-https://ianlunn.github.io/Hover/  
-https://www.polymer-project.org/  
-https://www.muicss.com/  
-http://www.html5depot.com/blackhole/  
-http://styleguide.sc5.io/  
-http://www.codeply.com/  
-http://titon.io/en/toolkit  
-http://sanographix.github.io/rin/  
-http://formstone.it/  
-http://daemonite.github.io/material/index.html  
-http://decorator.codable.org/  
-https://market.styleguide.envato.com/structures/checkout/review_order  
-##Bootstrap
-http://bootstrapzero.com/  
-http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/  
-http://cluckles.com/  
-http://getfuelux.com/  
-http://pingendo.com/  
-http://www.bootply.com/  
-http://bootswatch.com/  
-https://wrapbootstrap.com/  
-http://bootsnipp.com/  
-https://fezvrasta.github.io/bootstrap-material-design/#getting-started  
-http://startbootstrap.com/  
+## PC Apps
+[http://electron.atom.io/](http://electron.atom.io/)  
 
+## Contracts
+[http://www.docracy.com/](http://www.docracy.com/)<br>[http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)<br>[http://sixrevisions.com/project-management/tips-freelancer-design-contracts/](http://sixrevisions.com/project-management/tips-freelancer-design-contracts/)<br>[http://www.crowdspring.com/contracts-for-graphic-designers/](http://www.crowdspring.com/contracts-for-graphic-designers/)<br>[https://termsfeed.com/](https://termsfeed.com/)  
 
-##JavaScript libs
-http://www.javascripting.com/  
-http://devdocs.io/  
-http://libscore.com/  
-https://angularjs.org  
-http://angular-ui.github.io/  
-http://d3js.org/  
-https://github.com/wbkd/awesome-d3  
-http://maplacejs.com/  
-http://hpneo.github.io/gmaps/examples.html  
-http://heelhook.github.io/chardin.js/  
-http://github.hubspot.com/offline/docs/welcome/  
-http://prismjs.com/  
-http://jquerymy.com/  
-http://phonegap.com/  
-http://dgrid.io/  
-http://davidwells.tv/code/responsible/  
-http://threejs.org/  
-http://c3js.org/  
-http://todomvc.com/  
-http://jsblocks.com/  
-https://github.com/davidwells/responsible  
-http://coffeescript.org/  
-http://webpack.github.io/  
+## License
+[https://tldrlegal.com/](https://tldrlegal.com/)<br>[http://choosealicense.com/](http://choosealicense.com/)<br>[https://www.iubenda.com/en](https://www.iubenda.com/en)  
 
+## Online tools
+[http://online-domain-tools.com/](http://online-domain-tools.com/)<br>[http://nerdydata.com/](http://nerdydata.com/)<br>[http://builtwith.com/](http://builtwith.com/)<br>[http://css3generator.com/](http://css3generator.com/)<br>[http://html.fwpolice.com/css/](http://html.fwpolice.com/css/)<br>[http://tools.pingdom.com/fpt/](http://tools.pingdom.com/fpt/)<br>[http://tools.maxcdn.com/procssor/](http://tools.maxcdn.com/procssor/)<br>[http://webdevchecklist.com/](http://webdevchecklist.com/)<br>[http://meettheipsums.com/](http://meettheipsums.com/)<br>[http://onmobile.iwanttouse.com/](http://onmobile.iwanttouse.com/)<br>[http://caniuse.com/](http://caniuse.com/)<br>[http://joshnh.com/tools/em-baseline-generator.html](http://joshnh.com/tools/em-baseline-generator.html)<br>[http://cssshrink.com/](http://cssshrink.com/)<br>[http://webflow.com](http://webflow.com)<br>[http://howtocenterincss.com/](http://howtocenterincss.com/)<br>[http://codebeautify.org/](http://codebeautify.org/)<br>[https://www.modern.ie/en-gb](https://www.modern.ie/en-gb)<br>[https://www.transformy.io/](https://www.transformy.io/)  
 
-##Mobile App frameworks
-http://propertycross.com/  
-http://ionicframework.com/  
-https://apps.ionic.io/  
-http://play.ionic.io/  
-http://onsen.io/  
-http://www.idangero.us/framework7  
-http://foundation.zurb.com/apps/  
-http://ngcordova.com/  
-http://famo.us/  
-http://lungo.tapquo.com/  
-http://goratchet.com/getting-started/  
-http://qooxdoo.org/  
-https://www.nativescript.org/  
-http://reapp.io/  
-https://www.nativescript.org/  
-https://github.com/JetBrains/anko  
-https://github.com/pocorall/scaloid  
-http://www.manifoldjs.com/  
+### PDF Tools
+[http://pdftotext.org/](http://pdftotext.org/)  
 
-##PC Apps
-http://electron.atom.io/  
+### SVG Tools
+[http://picsvg.com/](http://picsvg.com/)  
 
-##Contracts
-http://www.docracy.com/  
-http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/  
-http://sixrevisions.com/project-management/tips-freelancer-design-contracts/  
-http://www.crowdspring.com/contracts-for-graphic-designers/  
-https://termsfeed.com/  
+### Name Generator
+[http://businessnameapp.com/](http://businessnameapp.com/)<br>[https://shrinkray.io/](https://shrinkray.io/)  
 
+## SEO
+[https://developers.google.com/web/fundamentals/principles/](https://developers.google.com/web/fundamentals/principles/)<br>[https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)<br>[https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)<br>[https://developers.google.com/closure/](https://developers.google.com/closure/)<br>[https://www.google.com/webmasters/tools/mobile-friendly/](https://www.google.com/webmasters/tools/mobile-friendly/)<br>[http://validator.w3.org/](http://validator.w3.org/)<br>[http://webcodetools.com/](http://webcodetools.com/)<br>[http://perf-tooling.today/tools](http://perf-tooling.today/tools)<br>[https://github.com/davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)<br>[http://www.google.com/analytics/](http://www.google.com/analytics/)<br>[https://www.google.com/webmasters](https://www.google.com/webmasters)<br>[http://www.google.com/trends/](http://www.google.com/trends/)<br>[http://browserdiet.com/en/](http://browserdiet.com/en/)<br>[http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715](http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715)<br>[https://segment.com/academy/the-quickest-wins-in-seo/](https://segment.com/academy/the-quickest-wins-in-seo/)<br>[http://moz.com/](http://moz.com/)<br>[https://marketing.grader.com](https://marketing.grader.com)<br>[http://nibbler.silktide.com/](http://nibbler.silktide.com/)<br>[http://www.sitespeed.io/](http://www.sitespeed.io/)<br>[http://builtwith.com/](http://builtwith.com/)<br>[http://inpage-seo-checker.eventsofa.de/](http://inpage-seo-checker.eventsofa.de/)<br>[http://toolbox.seerinteractive.com/](http://toolbox.seerinteractive.com/)  
 
-##License
-https://tldrlegal.com/  
-http://choosealicense.com/  
-https://www.iubenda.com/en  
+### Performance
+[http://www.perf.rocks/](http://www.perf.rocks/)<br>[http://yellowlab.tools/](http://yellowlab.tools/)<br>[http://www.wpspeedster.com/](http://www.wpspeedster.com/)<br>[https://github.com/davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)<br>[https://cdnify.com/discover/web-performance-guide](https://cdnify.com/discover/web-performance-guide)  
 
+## WordPress
+[http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes](http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes)<br>[https://wordpress.org/plugins/zero-spam/](https://wordpress.org/plugins/zero-spam/)<br>[https://github.com/afragen/github-updater](https://github.com/afragen/github-updater)<br>[http://www.wpexplorer.com/wordpress-seo-best-practices/](http://www.wpexplorer.com/wordpress-seo-best-practices/)<br>[https://deliciousbrains.com/tour-wordpress-database/](https://deliciousbrains.com/tour-wordpress-database/)<br>[http://pinegrow.com/wordpress-theme-builder.html](http://pinegrow.com/wordpress-theme-builder.html)<br>[https://www.layerthemes.com/wordpress-developer-resources/](https://www.layerthemes.com/wordpress-developer-resources/)<br>[http://premium.wpmudev.org/blog/customize-login-page/?nlv=d&utm_expid=3606929-35.im_xHH3rTkmdlc6O7wpMUQ.3](http://premium.wpmudev.org/blog/customize-login-page/?nlv=d&utm_expid=3606929-35.im_xHH3rTkmdlc6O7wpMUQ.3)<br>[http://filipstefansson.com/bootstrap-3-shortcodes/](http://filipstefansson.com/bootstrap-3-shortcodes/)<br>[https://github.com/filipstefansson/bootstrap-3-shortcodes](https://github.com/filipstefansson/bootstrap-3-shortcodes)<br>[http://gantry.org/](http://gantry.org/)<br>[http://generatewp.com/](http://generatewp.com/)<br>[https://ghost.org/](https://ghost.org/)<br>[https://gplclub.org/](https://gplclub.org/)<br>[http://wptest.io/](http://wptest.io/)<br>[https://github.com/jonathanrcarter/push2press](https://github.com/jonathanrcarter/push2press)<br>[http://getherbert.com/](http://getherbert.com/)<br>[https://wppusher.com/](https://wppusher.com/)<br>[http://wpplugindirectory.org/](http://wpplugindirectory.org/)<br>[http://tidyrepo.com/](http://tidyrepo.com/)<br>[http://code.tutsplus.com/tutorials/build-a-custom-wordpress-user-flow-part-1-replace-the-login-page--cms-23627](http://code.tutsplus.com/tutorials/build-a-custom-wordpress-user-flow-part-1-replace-the-login-page--cms-23627)  
 
-##Online tools
-http://online-domain-tools.com/  
-http://nerdydata.com/  
-http://builtwith.com/  
-http://css3generator.com/  
-http://html.fwpolice.com/css/  
-http://tools.pingdom.com/fpt/  
-http://tools.maxcdn.com/procssor/  
-http://webdevchecklist.com/  
-http://meettheipsums.com/  
-http://onmobile.iwanttouse.com/  
-http://caniuse.com/  
-http://joshnh.com/tools/em-baseline-generator.html  
-http://cssshrink.com/  
-http://webflow.com  
-http://howtocenterincss.com/  
-http://codebeautify.org/  
-https://www.modern.ie/en-gb  
-https://www.transformy.io/  
-###PDF Tools  
-http://pdftotext.org/  
-###SVG Tools
-http://picsvg.com/  
-###Name Generator
-http://businessnameapp.com/  
-https://shrinkray.io/  
+## Prototyping Tools
+[http://prototypingtools.co/](http://prototypingtools.co/)<br>[http://sneakpeekit.com/](http://sneakpeekit.com/)  
 
+### Mockups
+[https://www.mockuuups.com/freebies/](https://www.mockuuups.com/freebies/)<br>[https://github.com/fabrik42/responsive_mockups](https://github.com/fabrik42/responsive_mockups)  
 
-##SEO
-https://developers.google.com/web/fundamentals/principles/  
-https://developers.google.com/speed/pagespeed/insights/  
-https://developers.google.com/speed/webp/  
-https://developers.google.com/closure/  
-https://www.google.com/webmasters/tools/mobile-friendly/  
-http://validator.w3.org/  
-http://webcodetools.com/  
-http://perf-tooling.today/tools  
-https://github.com/davidsonfellipe/awesome-wpo  
-http://www.google.com/analytics/  
-https://www.google.com/webmasters  
-http://www.google.com/trends/  
-http://browserdiet.com/en/  
-http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715  
-https://segment.com/academy/the-quickest-wins-in-seo/  
-http://moz.com/  
-https://marketing.grader.com  
-http://nibbler.silktide.com/  
-http://www.sitespeed.io/  
-http://builtwith.com/  
-http://inpage-seo-checker.eventsofa.de/  
-http://toolbox.seerinteractive.com/  
-###Performance
-http://www.perf.rocks/  
-http://yellowlab.tools/  
-http://www.wpspeedster.com/  
-https://github.com/davidsonfellipe/awesome-wpo  
-https://cdnify.com/discover/web-performance-guide  
+## Testing
+[https://github.com/facebookarchive/huxley](https://github.com/facebookarchive/huxley)<br>[http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/](http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/)<br>[http://csste.st/](http://csste.st/)<br>[http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/](http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/)<br>[http://phantomjs.org/](http://phantomjs.org/)<br>[http://angular.github.io/protractor/#/](http://angular.github.io/protractor/#/)<br>[http://yahoo.github.io/blink-diff/](http://yahoo.github.io/blink-diff/)<br>[http://uitest.com/en/analysis/](http://uitest.com/en/analysis/)<br>[https://percy.io/](https://percy.io/)<br>[http://locust.io/](http://locust.io/)  
 
+## Email
+[http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/](http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/)<br>[https://litmus.com/scope/](https://litmus.com/scope/)<br>[http://www.leemunroe.com/sending-email-designers-developers/](http://www.leemunroe.com/sending-email-designers-developers/)<br>[http://glennsmith.me/email/framework/](http://glennsmith.me/email/framework/)<br>[http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails](http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails)<br>[https://github.com/sparkbox/email-lab](https://github.com/sparkbox/email-lab)<br>[http://emailframe.work/](http://emailframe.work/)<br>[http://greatemailcopy.tumblr.com/](http://greatemailcopy.tumblr.com/)<br>[https://beefree.io/index.html](https://beefree.io/index.html)<br>[http://zurb.com/ink/](http://zurb.com/ink/)  
 
-##WordPress
-http://wptavern.com/wordpress-org-vs-github-for-hosting-wordpress-plugins-and-themes  
-https://wordpress.org/plugins/zero-spam/  
-https://github.com/afragen/github-updater  
-http://www.wpexplorer.com/wordpress-seo-best-practices/  
-https://deliciousbrains.com/tour-wordpress-database/  
-http://pinegrow.com/wordpress-theme-builder.html  
-https://www.layerthemes.com/wordpress-developer-resources/  
-http://premium.wpmudev.org/blog/customize-login-page/?nlv=d&utm_expid=3606929-35.im_xHH3rTkmdlc6O7wpMUQ.3  
-http://filipstefansson.com/bootstrap-3-shortcodes/  
-https://github.com/filipstefansson/bootstrap-3-shortcodes  
-http://gantry.org/  
-http://generatewp.com/  
-https://ghost.org/  
-https://gplclub.org/  
-http://wptest.io/  
-https://github.com/jonathanrcarter/push2press  
-http://getherbert.com/  
-https://wppusher.com/  
-http://wpplugindirectory.org/  
-http://tidyrepo.com/  
-http://code.tutsplus.com/tutorials/build-a-custom-wordpress-user-flow-part-1-replace-the-login-page--cms-23627  
+## Fonts and icons
+[http://fortawesome.github.io/Font-Awesome/](http://fortawesome.github.io/Font-Awesome/)<br>[http://pfefferle.github.io/openwebicons/](http://pfefferle.github.io/openwebicons/)<br>[http://fontello.com/](http://fontello.com/)<br>[http://iconvau.lt/](http://iconvau.lt/)<br>[http://fontastic.me/](http://fontastic.me/)<br>[http://fontcustom.com/](http://fontcustom.com/)<br>[http://mapglyphs.com/](http://mapglyphs.com/)<br>[http://glyphsearch.com/](http://glyphsearch.com/)<br>[http://paymentfont.io/](http://paymentfont.io/)<br>[http://evil-icons.io/](http://evil-icons.io/)<br>[http://weloveiconfonts.com/](http://weloveiconfonts.com/)<br>[http://gemicon.net/](http://gemicon.net/)<br>[http://www.transformicons.com/](http://www.transformicons.com/)<br>[http://svgicons.sparkk.fr/](http://svgicons.sparkk.fr/)<br>[https://smarticons.co/icons](https://smarticons.co/icons)<br>[https://www.google.com/design/icons/](https://www.google.com/design/icons/)  
 
+### Font tools
+[http://jaicab.com/localFont/](http://jaicab.com/localFont/)  
 
-##Prototyping Tools
-http://prototypingtools.co/  
-http://sneakpeekit.com/  
-###Mockups
-https://www.mockuuups.com/freebies/  
-https://github.com/fabrik42/responsive_mockups  
+### Icon tools
+[https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93](https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93)<br>[http://iconogen.com/](http://iconogen.com/)<br>[https://epicfavicongenerator.com/](https://epicfavicongenerator.com/)<br>[http://simplesharingbuttons.com/](http://simplesharingbuttons.com/)<br>[http://realfavicongenerator.net/](http://realfavicongenerator.net/)<br>[http://blog.clearbit.com/](http://blog.clearbit.com/)  
 
+## Colors
+[http://flatuicolors.com/](http://flatuicolors.com/)<br>[http://subtlepatterns.com/](http://subtlepatterns.com/)<br>[http://www.checkman.io/please/](http://www.checkman.io/please/)  
 
-##Testing
-https://github.com/facebookarchive/huxley  
-http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/  
-http://csste.st/  
-http://www.phase2technology.com/blog/css-testing-with-phantomcss-phantomjs-casperjs-and-grunt/  
-http://phantomjs.org/  
-http://angular.github.io/protractor/#/  
-http://yahoo.github.io/blink-diff/  
-http://uitest.com/en/analysis/  
-https://percy.io/  
-http://locust.io/  
+## Free Media to use on your site
+### Free Photos
+[http://cupcake.nilssonlee.se/](http://cupcake.nilssonlee.se/)<br>[http://deathtothestockphoto.com/](http://deathtothestockphoto.com/)<br>[http://fancycrave.com/](http://fancycrave.com/)<br>[http://finda.photo/](http://finda.photo/)<br>[http://foodiesfeed.com/free-images/](http://foodiesfeed.com/free-images/)<br>[http://freelyphotos.com/](http://freelyphotos.com/)<br>[http://freenaturestock.com/](http://freenaturestock.com/)<br>[http://furiouscamera.com/](http://furiouscamera.com/)<br>[http://getrefe.tumblr.com/](http://getrefe.tumblr.com/)<br>[http://www.gratisography.com/](http://www.gratisography.com/)<br>[http://images.superfamous.com/](http://images.superfamous.com/)<br>[http://imcreator.com/free](http://imcreator.com/free)<br>[http://isorepublic.com/](http://isorepublic.com/)<br>[http://jaymantri.com/](http://jaymantri.com/)<br>[http://jeshoots.com/](http://jeshoots.com/)<br>[http://www.lifeofpix.com/](http://www.lifeofpix.com/)<br>[http://littlevisuals.co/](http://littlevisuals.co/)<br>[http://lockandstockphotos.com/](http://lockandstockphotos.com/)<br>[http://magdeleine.co/](http://magdeleine.co/)<br>[http://mmt.li/](http://mmt.li/)<br>[http://nos.twnsnd.co/](http://nos.twnsnd.co/)<br>[http://noblweb.com/](http://noblweb.com/)<br>[http://photopin.com/](http://photopin.com/)<br>[http://picjumbo.com/](http://picjumbo.com/)<br>[http://picography.co/](http://picography.co/)<br>[http://pixabay.com/](http://pixabay.com/)<br>[http://publicdomainarchive.com/](http://publicdomainarchive.com/)<br>[http://raumrot.com/](http://raumrot.com/)<br>[http://realisticshots.com/](http://realisticshots.com/)<br>[http://splitshire.com/](http://splitshire.com/)<br>[http://snapwiresnaps.tumblr.com/](http://snapwiresnaps.tumblr.com/)<br>[http://startupstockphotos.com/](http://startupstockphotos.com/)<br>[https://stocksnap.io/](https://stocksnap.io/)<br>[http://superfamous.com/](http://superfamous.com/)<br>[http://thestocks.im/](http://thestocks.im/)<br>[http://trunklog.com/](http://trunklog.com/)<br>[https://unsplash.com/](https://unsplash.com/)<br>[http://www.sitebuilderreport.com/stock-up](http://www.sitebuilderreport.com/stock-up)
 
+### Free Videos
+[http://makerbook.net/](http://makerbook.net/)<br>[https://videos.pexels.com/](https://videos.pexels.com/)<br>[http://www.coverr.co/](http://www.coverr.co/)  
 
-##Email
-http://www.smashingmagazine.com/2013/06/20/email-templates-web-designers-developers-pdf-odt-txt/  
-https://litmus.com/scope/  
-http://www.leemunroe.com/sending-email-designers-developers/  
-http://glennsmith.me/email/framework/  
-http://seesparkbox.com/foundry/email_lab_a_starter_kit_for_html_emails  
-https://github.com/sparkbox/email-lab  
-http://emailframe.work/  
-http://greatemailcopy.tumblr.com/  
-https://beefree.io/index.html  
-http://zurb.com/ink/  
+### Free Music
+[http://www.noupe.com/essentials/thou-shalt-not-steal-free-music-for-your-videos-and-websites-79992.html](http://www.noupe.com/essentials/thou-shalt-not-steal-free-music-for-your-videos-and-websites-79992.html)  
 
+## js
+[http://vincentgarreau.com/particles.js/](http://vincentgarreau.com/particles.js/)<br>[http://arasatasaygin.github.io/is.js/](http://arasatasaygin.github.io/is.js/)<br>[http://sbstjn.github.io/timesheet.js/](http://sbstjn.github.io/timesheet.js/)<br>[https://angular.io/](https://angular.io/)<br>[http://riccardoscalco.github.io/textures/](http://riccardoscalco.github.io/textures/)<br>[http://jointjs.com/](http://jointjs.com/)<br>[https://mango.github.io/slideout/](https://mango.github.io/slideout/)<br>[http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)<br>[http://bevacqua.github.io/dragula/](http://bevacqua.github.io/dragula/)<br>[https://autocompeter.com/](https://autocompeter.com/)<br>[http://www.jsgraphs.com/](http://www.jsgraphs.com/)<br>[https://conversejs.org/](https://conversejs.org/)<br>[https://highlightjs.org/](https://highlightjs.org/)<br>[http://superherojs.com/](http://superherojs.com/)<br>[http://datatables.net/](http://datatables.net/)<br>[http://usablica.github.io/intro.js/](http://usablica.github.io/intro.js/)<br>[http://heelhook.github.io/chardin.js/](http://heelhook.github.io/chardin.js/)<br>[http://facebook.github.io/react/](http://facebook.github.io/react/)  
 
-##Fonts and icons
-http://fortawesome.github.io/Font-Awesome/  
-http://pfefferle.github.io/openwebicons/  
-http://fontello.com/  
-http://iconvau.lt/  
-http://fontastic.me/  
-http://fontcustom.com/  
-http://mapglyphs.com/  
-http://glyphsearch.com/  
-http://paymentfont.io/  
-http://evil-icons.io/  
-http://weloveiconfonts.com/  
-http://gemicon.net/  
-http://www.transformicons.com/  
-http://svgicons.sparkk.fr/  
-https://smarticons.co/icons  
-https://www.google.com/design/icons/  
-###Font tools
-http://jaicab.com/localFont/  
-###Icon tools
-https://medium.com/@webalys/die-png-die-how-to-use-vector-icons-in-your-apps-d884c9c63e93  
-http://iconogen.com/  
-https://epicfavicongenerator.com/  
-http://simplesharingbuttons.com/  
-http://realfavicongenerator.net/  
-http://blog.clearbit.com/  
+### Angular
+[https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)<br>[http://angular-formly.com/#/](http://angular-formly.com/#/)  
 
-##Colors
-http://flatuicolors.com/  
-http://subtlepatterns.com/  
-http://www.checkman.io/please/  
+## css
+[http://simurai.com/blog/2014/10/01/front-links/](http://simurai.com/blog/2014/10/01/front-links/)<br>[http://sixrevisions.com/lists/css-tools-you-should-be-using/](http://sixrevisions.com/lists/css-tools-you-should-be-using/)<br>[https://github.com/bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)<br>[http://bensmithett.com/smarter-css-builds-with-webpack/](http://bensmithett.com/smarter-css-builds-with-webpack/)<br>[http://cssanimation.rocks/](http://cssanimation.rocks/)<br>[https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05](https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05)<br>[http://www.basscss.com/](http://www.basscss.com/)<br>[http://styleguides.io/](http://styleguides.io/)<br>[http://codeguide.co/](http://codeguide.co/)<br>[http://wtfhtmlcss.com/](http://wtfhtmlcss.com/)<br>[http://primercss.io/](http://primercss.io/)<br>[https://github.com/katiefenn/parker](https://github.com/katiefenn/parker)<br>[https://github.com/springload/css-reporter](https://github.com/springload/css-reporter)<br>[http://connoratherton.com/loaders](http://connoratherton.com/loaders)<br>[https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)<br>[http://www.cssreflex.com/](http://www.cssreflex.com/)<br>[http://cssguidelin.es/](http://cssguidelin.es/)  
 
-##Free Media to use on your site
-###Free Photos
-http://cupcake.nilssonlee.se/  
-http://deathtothestockphoto.com/  
-http://fancycrave.com/  
-http://finda.photo/  
-http://foodiesfeed.com/free-images/  
-http://freelyphotos.com/  
-http://freenaturestock.com/  
-http://furiouscamera.com/  
-http://getrefe.tumblr.com/  
-http://www.gratisography.com/  
-http://images.superfamous.com/  
-http://imcreator.com/free  
-http://isorepublic.com/  
-http://jaymantri.com/  
-http://jeshoots.com/  
-http://www.lifeofpix.com/  
-http://littlevisuals.co/  
-http://lockandstockphotos.com/  
-http://magdeleine.co/  
-http://mmt.li/  
-http://nos.twnsnd.co/  
-http://noblweb.com/  
-http://photopin.com/  
-http://picjumbo.com/  
-http://picography.co/  
-http://pixabay.com/  
-http://publicdomainarchive.com/  
-http://raumrot.com/  
-http://realisticshots.com/  
-http://splitshire.com/  
-http://snapwiresnaps.tumblr.com/  
-http://startupstockphotos.com/  
-https://stocksnap.io/  
-http://superfamous.com/  
-http://thestocks.im/  
-http://trunklog.com/  
-https://unsplash.com/  
-http://www.sitebuilderreport.com/stock-up
-###Free Videos
-http://makerbook.net/  
-https://videos.pexels.com/  
-http://www.coverr.co/  
-###Free Music
-http://www.noupe.com/essentials/thou-shalt-not-steal-free-music-for-your-videos-and-websites-79992.html  
+### grid
+[https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)<br>[https://philipwalton.github.io/solved-by-flexbox/](https://philipwalton.github.io/solved-by-flexbox/)  
 
+## svg
+[https://svgontheweb.com/](https://svgontheweb.com/)<br>[http://billautomata.github.io/svg2d3/](http://billautomata.github.io/svg2d3/)<br>[http://svgporn.com/?ref=producthunt](http://svgporn.com/?ref=producthunt)  
 
-##js
-http://vincentgarreau.com/particles.js/  
-http://arasatasaygin.github.io/is.js/  
-http://sbstjn.github.io/timesheet.js/  
-https://angular.io/  
-http://riccardoscalco.github.io/textures/  
-http://jointjs.com/  
-https://mango.github.io/slideout/  
-http://rubaxa.github.io/Sortable/  
-http://bevacqua.github.io/dragula/  
-https://autocompeter.com/  
-http://www.jsgraphs.com/  
-https://conversejs.org/  
-https://highlightjs.org/  
-http://superherojs.com/  
-http://datatables.net/  
-http://usablica.github.io/intro.js/  
-http://heelhook.github.io/chardin.js/  
-http://facebook.github.io/react/  
+## html
+[https://samdutton.wordpress.com/2015/04/02/high-performance-html/](https://samdutton.wordpress.com/2015/04/02/high-performance-html/)  
 
-###Angular
-https://github.com/johnpapa/angular-styleguide  
-http://angular-formly.com/#/  
+## Unix
+[http://www.oliverelliott.org/article/computing/tut_unix](http://www.oliverelliott.org/article/computing/tut_unix)  
 
+## Workflow
+[http://yeoman.io/](http://yeoman.io/)<br>[http://angular-ui.github.io/bootstrap/](http://angular-ui.github.io/bootstrap/)<br>[https://angular.io/](https://angular.io/)<br>[http://capistranorb.com/](http://capistranorb.com/)<br>[https://roots.io/](https://roots.io/)<br>[http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)  
 
-##css
-http://simurai.com/blog/2014/10/01/front-links/  
-http://sixrevisions.com/lists/css-tools-you-should-be-using/  
-https://github.com/bendc/frontend-guidelines  
-http://bensmithett.com/smarter-css-builds-with-webpack/  
-http://cssanimation.rocks/  
-https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05  
-http://www.basscss.com/  
-http://styleguides.io/  
-http://codeguide.co/  
-http://wtfhtmlcss.com/  
-http://primercss.io/  
-https://github.com/katiefenn/parker  
-https://github.com/springload/css-reporter  
-http://connoratherton.com/loaders  
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference  
-http://www.cssreflex.com/  
-http://cssguidelin.es/  
-###grid
-https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
-https://philipwalton.github.io/solved-by-flexbox/  
+## Data Science
+[http://datasciencespecialization.github.io/](http://datasciencespecialization.github.io/)<br>[http://cs109.github.io/2014/](http://cs109.github.io/2014/)<br>[https://leanpub.com/datastyle/](https://leanpub.com/datastyle/)<br>[https://leanpub.com/LittleInferenceBook](https://leanpub.com/LittleInferenceBook)<br>[http://johnmacfarlane.net/pandoc/](http://johnmacfarlane.net/pandoc/)<br>[https://github.com/nathanepstein/datakit](https://github.com/nathanepstein/datakit)<br>[http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)  
 
-##svg
-https://svgontheweb.com/  
-http://billautomata.github.io/svg2d3/  
-http://svgporn.com/?ref=producthunt  
+### R
+[http://rmarkdown.rstudio.com/](http://rmarkdown.rstudio.com/)<br>[http://yihui.name/knitr/demo/showcase/](http://yihui.name/knitr/demo/showcase/)<br>[https://www.sharelatex.com/learn/Knitr](https://www.sharelatex.com/learn/Knitr)<br>[http://rmaps.github.io/](http://rmaps.github.io/)<br>[http://sztanko.github.io/crosslet/](http://sztanko.github.io/crosslet/)<br>[http://shiny.rstudio.com/](http://shiny.rstudio.com/)<br>[http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)<br>[http://adv-r.had.co.nz/](http://adv-r.had.co.nz/)<br>[https://beckmw.wordpress.com/tag/neural-network/](https://beckmw.wordpress.com/tag/neural-network/)<br>[http://www.renjin.org/](http://www.renjin.org/)<br>[https://www.opencpu.org/](https://www.opencpu.org/)<br>[http://rapache.net/](http://rapache.net/)<br>[http://rpy.sourceforge.net/rpy2.html](http://rpy.sourceforge.net/rpy2.html)<br>[http://rcharts.io/](http://rcharts.io/)<br>[https://yhathq.com/](https://yhathq.com/)  
 
-##html
-https://samdutton.wordpress.com/2015/04/02/high-performance-html/  
+#### Pakages
+devtools<br>caret<br>ggplot2<br>plyr<br>manipulate  
 
+### Database
+[https://github.com/emirozer/fake2db](https://github.com/emirozer/fake2db)  
 
-##Unix
-http://www.oliverelliott.org/article/computing/tut_unix  
+## Version Control
+[http://keepachangelog.com/](http://keepachangelog.com/)<br>[http://www.git-tower.com/learn](http://www.git-tower.com/learn)<br>[http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)<br>[http://hubpress.io/](http://hubpress.io/)<br>[http://gogs.io/](http://gogs.io/)<br>[http://www.apertoire.net/gogs-an-alternative-to-gitlab/](http://www.apertoire.net/gogs-an-alternative-to-gitlab/)<br>[http://ricardofilipe.com/projects/firstaidgit/#/](http://ricardofilipe.com/projects/firstaidgit/#/)<br>[https://sandstorm.io/](https://sandstorm.io/)<br>[http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/](http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/)<br>[http://akshaykumar6.github.io/github-js/#examples](http://akshaykumar6.github.io/github-js/#examples)<br>[http://gitup.co/](http://gitup.co/)<br>[https://github.com/blog/2019-how-to-undo-almost-anything-with-git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)  
 
+## Learning
+[http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html](http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html)<br>[https://www.khanacademy.org/](https://www.khanacademy.org/)<br>[http://www.codecademy.com/](http://www.codecademy.com/)<br>[http://www.learnpython.org/](http://www.learnpython.org/)<br>[http://sqlzoo.net/wiki/Main_Page](http://sqlzoo.net/wiki/Main_Page)<br>[https://www.udacity.com/](https://www.udacity.com/)<br>[https://www.coursera.org/](https://www.coursera.org/)<br>[https://www.edx.org/](https://www.edx.org/)<br>[http://www.git-tower.com/learn/](http://www.git-tower.com/learn/)<br>[https://github.com/thomaspark/pubcss/](https://github.com/thomaspark/pubcss/)<br>[https://www.udacity.com/course/ud882](https://www.udacity.com/course/ud882)<br>[https://www.khanacademy.org/computing/computer-science/algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)<br>[http://ocw.mit.edu/courses/find-by-topic/](http://ocw.mit.edu/courses/find-by-topic/)<br>[https://www.openintro.org/](https://www.openintro.org/)<br>[http://plato.stanford.edu/entries/game-theory/](http://plato.stanford.edu/entries/game-theory/)<br>[http://papl.cs.brown.edu/2014/](http://papl.cs.brown.edu/2014/)<br>[https://www.mysliderule.com/workshops/ux-design](https://www.mysliderule.com/workshops/ux-design)<br>[http://hackr.io/](http://hackr.io/)<br>[https://www.layerthemes.com/learn-wordpress-basics/](https://www.layerthemes.com/learn-wordpress-basics/)  
 
-##Workflow
-http://yeoman.io/  
-http://angular-ui.github.io/bootstrap/  
-https://angular.io/  
-http://capistranorb.com/  
-https://roots.io/  
-http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/  
+### Specific
+[http://www.codecademy.com/learn/learn-angularjs](http://www.codecademy.com/learn/learn-angularjs)<br>[https://www.google.com/about/careers/students/guide-to-technical-development.html](https://www.google.com/about/careers/students/guide-to-technical-development.html)<br>[https://www.udacity.com/course/responsive-images--ud882](https://www.udacity.com/course/responsive-images--ud882)<br>[https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x](https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x)<br>[https://www.shortcutfoo.com/](https://www.shortcutfoo.com/)<br>[http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html](http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html)  
 
+### Books
+[http://hackershelf.com/browse/?popular=1](http://hackershelf.com/browse/?popular=1)  
 
-##Data Science
-http://datasciencespecialization.github.io/  
-http://cs109.github.io/2014/  
-https://leanpub.com/datastyle/  
-https://leanpub.com/LittleInferenceBook  
-http://johnmacfarlane.net/pandoc/  
-https://github.com/nathanepstein/datakit  
-http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/  
-###R
-http://rmarkdown.rstudio.com/  
-http://yihui.name/knitr/demo/showcase/  
-https://www.sharelatex.com/learn/Knitr  
-http://rmaps.github.io/  
-http://sztanko.github.io/crosslet/  
-http://shiny.rstudio.com/  
-http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/  
-http://adv-r.had.co.nz/  
-https://beckmw.wordpress.com/tag/neural-network/  
-http://www.renjin.org/  
-https://www.opencpu.org/  
-http://rapache.net/  
-http://rpy.sourceforge.net/rpy2.html  
-http://rcharts.io/  
-https://yhathq.com/  
-####Pakages
-devtools  
-caret  
-ggplot2  
-plyr  
-manipulate  
+## Unsorted
+[http://sourceforge.net/](http://sourceforge.net/)<br>[https://www.kickstarter.com/](https://www.kickstarter.com/)<br>[https://www.virtkick.com/](https://www.virtkick.com/)<br>[http://maxwellito.github.io/vivus/](http://maxwellito.github.io/vivus/)<br>[http://resume.linkedinlabs.com/](http://resume.linkedinlabs.com/)<br>[https://www.docker.com](https://www.docker.com)  
 
-###Database
-https://github.com/emirozer/fake2db  
+# Dev
+## Python
+[http://automatetheboringstuff.com/](http://automatetheboringstuff.com/)  
 
+## Php
+[http://www.phpdoc.org/](http://www.phpdoc.org/)<br>[https://phalconphp.com/en/](https://phalconphp.com/en/)  
 
-##Version Control
-http://keepachangelog.com/  
-http://www.git-tower.com/learn  
-http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/  
-http://hubpress.io/  
-http://gogs.io/  
-http://www.apertoire.net/gogs-an-alternative-to-gitlab/  
-http://ricardofilipe.com/projects/firstaidgit/#/  
-https://sandstorm.io/  
-http://christoph-rumpel.com/2015/05/clean-up-your-commits-for-a-pull-request/  
-http://akshaykumar6.github.io/github-js/#examples  
-http://gitup.co/  
-https://github.com/blog/2019-how-to-undo-almost-anything-with-git  
+# Startups
+[http://submit.co/](http://submit.co/)  
 
+# Projects
+## SUnORE
+[http://confagenda.audero.it/](http://confagenda.audero.it/) [http://www.tablesgenerator.com/](http://www.tablesgenerator.com/)<br>[http://gofore.com/ohjelmistokehitys/stop-using-bower/](http://gofore.com/ohjelmistokehitys/stop-using-bower/)<br>[http://cleanthesis.der-ric.de/](http://cleanthesis.der-ric.de/)  
 
-##Learning
-http://www.noupe.com/development/learn-something-new-20-top-online-learning-resources-76140.html  
-https://www.khanacademy.org/  
-http://www.codecademy.com/  
-http://www.learnpython.org/  
-http://sqlzoo.net/wiki/Main_Page  
-https://www.udacity.com/  
-https://www.coursera.org/  
-https://www.edx.org/  
-http://www.git-tower.com/learn/  
-https://github.com/thomaspark/pubcss/  
-https://www.udacity.com/course/ud882  
-https://www.khanacademy.org/computing/computer-science/algorithms  
-http://ocw.mit.edu/courses/find-by-topic/  
-https://www.openintro.org/  
-http://plato.stanford.edu/entries/game-theory/  
-http://papl.cs.brown.edu/2014/  
-https://www.mysliderule.com/workshops/ux-design  
-http://hackr.io/  
-https://www.layerthemes.com/learn-wordpress-basics/  
-###Specific
-http://www.codecademy.com/learn/learn-angularjs  
-https://www.google.com/about/careers/students/guide-to-technical-development.html  
-https://www.udacity.com/course/responsive-images--ud882  
-https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x  
-https://www.shortcutfoo.com/  
-http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html  
-###Books
-http://hackershelf.com/browse/?popular=1  
+# Mac
+[http://brewformulas.org/](http://brewformulas.org/)<br>[http://brew.sh/](http://brew.sh/)  
 
-
-##Unsorted
-http://sourceforge.net/  
-https://www.kickstarter.com/  
-https://www.virtkick.com/  
-http://maxwellito.github.io/vivus/  
-http://resume.linkedinlabs.com/  
-https://www.docker.com  
-
-
-#Dev
-##Python
-http://automatetheboringstuff.com/  
-##Php
-http://www.phpdoc.org/  
-https://phalconphp.com/en/  
-
-
-#Startups
-http://submit.co/  
-
-#Projects
-##SUnORE
-http://confagenda.audero.it/
-http://www.tablesgenerator.com/  
-http://gofore.com/ohjelmistokehitys/stop-using-bower/  
-http://cleanthesis.der-ric.de/  
-
-
-#Mac
-http://brewformulas.org/  
-http://brew.sh/  
-
-#Personal Intrests  
-http://karpathy.github.io/neuralnets/  
-https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/  
-http://pandoc.org/  
-http://code4sa.org/  
-https://github.com/CodeForAfrica  
-https://angularjs.org/  
-https://formden.com/form-builder/  
-http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html  
+# Personal Intrests
+[http://karpathy.github.io/neuralnets/](http://karpathy.github.io/neuralnets/)<br>[https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/](https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/)<br>[http://pandoc.org/](http://pandoc.org/)<br>[http://code4sa.org/](http://code4sa.org/)<br>[https://github.com/CodeForAfrica](https://github.com/CodeForAfrica)<br>[https://angularjs.org/](https://angularjs.org/)<br>[https://formden.com/form-builder/](https://formden.com/form-builder/)<br>[http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html](http://googleresearch.blogspot.com/2015/06/inceptionism-going-deeper-into-neural.html)  
