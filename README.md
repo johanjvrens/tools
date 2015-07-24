@@ -1,6 +1,3 @@
-# Analytic Tools
-Analytics is the process of transforming data into insights for making better decisions.
-
 ## Dev Tools
 [https://atom.io/](https://atom.io/)<br>[http://brackets.io/](http://brackets.io/)  
 
@@ -100,6 +97,7 @@ Analytics is the process of transforming data into insights for making better de
 
 ## css
 [http://simurai.com/blog/2014/10/01/front-links/](http://simurai.com/blog/2014/10/01/front-links/)<br>[http://sixrevisions.com/lists/css-tools-you-should-be-using/](http://sixrevisions.com/lists/css-tools-you-should-be-using/)<br>[https://github.com/bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)<br>[http://bensmithett.com/smarter-css-builds-with-webpack/](http://bensmithett.com/smarter-css-builds-with-webpack/)<br>[http://cssanimation.rocks/](http://cssanimation.rocks/)<br>[https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05](https://medium.com/@operatino/living-style-guide-tools-in-depth-overview-28cfffb92d05)<br>[http://www.basscss.com/](http://www.basscss.com/)<br>[http://styleguides.io/](http://styleguides.io/)<br>[http://codeguide.co/](http://codeguide.co/)<br>[http://wtfhtmlcss.com/](http://wtfhtmlcss.com/)<br>[http://primercss.io/](http://primercss.io/)<br>[https://github.com/katiefenn/parker](https://github.com/katiefenn/parker)<br>[https://github.com/springload/css-reporter](https://github.com/springload/css-reporter)<br>[http://connoratherton.com/loaders](http://connoratherton.com/loaders)<br>[https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)<br>[http://www.cssreflex.com/](http://www.cssreflex.com/)<br>[http://cssguidelin.es/](http://cssguidelin.es/)  
+[https://web-design-weekly.com/2015/07/21/creating-better-css/](https://web-design-weekly.com/2015/07/21/creating-better-css/)<br> 
 
 ### grid
 [https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)<br>[https://philipwalton.github.io/solved-by-flexbox/](https://philipwalton.github.io/solved-by-flexbox/)  
