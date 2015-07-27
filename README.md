@@ -106,6 +106,7 @@
 [http://angular-ui.github.io/](http://angular-ui.github.io/)<br>
 [http://d3js.org/](http://d3js.org/)<br>
 [https://github.com/wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)<br>
+[http://d3-legend.susielu.com/](http://d3-legend.susielu.com/)<br>
 [http://maplacejs.com/](http://maplacejs.com/)<br>
 [http://hpneo.github.io/gmaps/examples.html](http://hpneo.github.io/gmaps/examples.html)<br>
 [http://heelhook.github.io/chardin.js/](http://heelhook.github.io/chardin.js/)<br>
