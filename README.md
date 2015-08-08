@@ -28,7 +28,10 @@
 [http://webdesignstack.com/](http://webdesignstack.com/)<br>
 [https://changelog.com/](https://changelog.com/)<br>
 [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)<br>
-[http://bitsofco.de/2015/the-accessibility-cheatsheet/](http://bitsofco.de/2015/the-accessibility-cheatsheet/)<br>  
+[http://bitsofco.de/2015/the-accessibility-cheatsheet/](http://bitsofco.de/2015/the-accessibility-cheatsheet/)<br>
+
+## Security
+[https://httpsecurityreport.com/?report=johanjvrens.co.za](https://httpsecurityreport.com/?report=johanjvrens.co.za)<br>
 
 ## Web Design
 [http://web-design.alltop.com/](http://web-design.alltop.com/)<br>
@@ -123,7 +126,9 @@
 [https://github.com/davidwells/responsible](https://github.com/davidwells/responsible)<br>
 [http://coffeescript.org/](http://coffeescript.org/)<br>
 [http://webpack.github.io/](http://webpack.github.io/)<br>  
-[https://github.com/bevacqua/dragula/blob/master/readme.markdown](https://github.com/bevacqua/dragula/blob/master/readme.markdown)<br> 
+[https://github.com/bevacqua/dragula/blob/master/readme.markdown](https://github.com/bevacqua/dragula/blob/master/readme.markdown)<br>
+[http://jspreadsheets.com/](http://jspreadsheets.com/)<br>
+[https://github.com/octalmage/robotjs](https://github.com/octalmage/robotjs)<br>
 
 ## Mobile App frameworks
 [http://propertycross.com/](http://propertycross.com/)<br>
@@ -182,6 +187,7 @@
 
 ### PDF Tools
 [http://pdftotext.org/](http://pdftotext.org/)<br>  
+[http://pdfmake.org/](http://pdfmake.org/)<br>
 
 ### SVG Tools
 [http://picsvg.com/](http://picsvg.com/)<br>  
@@ -454,11 +460,11 @@
 [https://yhathq.com/](https://yhathq.com/)<br>  
 
 #### Pakages
-*devtools<br>
-*caret<br>
-*ggplot2<br>
-*plyr<br>
-*manipulate<br>  
+* devtools<br>
+* caret<br>
+* ggplot2<br>
+* plyr<br>
+* manipulate<br>  
 
 ### Database
 [https://github.com/emirozer/fake2db](https://github.com/emirozer/fake2db)<br>  
