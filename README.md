@@ -440,7 +440,8 @@
 [https://leanpub.com/LittleInferenceBook](https://leanpub.com/LittleInferenceBook)<br>
 [http://johnmacfarlane.net/pandoc/](http://johnmacfarlane.net/pandoc/)<br>
 [https://github.com/nathanepstein/datakit](https://github.com/nathanepstein/datakit)<br>
-[http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)<br>  
+[http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)<br>
+[https://github.com/rushter/data-science-blogs](https://github.com/rushter/data-science-blogs)<br>
 
 ### R
 [http://rmarkdown.rstudio.com/](http://rmarkdown.rstudio.com/)<br>
@@ -526,6 +527,9 @@
 # Dev
 ## Python
 [http://automatetheboringstuff.com/](http://automatetheboringstuff.com/)<br>  
+[http://maxberggren.github.io/2015/08/04/basemap](http://maxberggren.github.io/2015/08/04/basemap)<br>
+[https://github.com/robdmc/pandashells](https://github.com/robdmc/pandashells)<br>
+[http://pythonwheels.com/](http://pythonwheels.com/)<br>
 
 ## Php
 [http://www.phpdoc.org/](http://www.phpdoc.org/)<br>
