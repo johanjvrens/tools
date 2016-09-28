@@ -1,8 +1,76 @@
-## Dev Tools
-[https://atom.io/](https://atom.io/)<br>
-[http://brackets.io/](http://brackets.io/)<br>  
+# My Custom Developer Environment Setup for Mac
+This is my custom recipe to get OS X 10.11 (El Capitan) running from scratch with useful applications for my developer environment. I use this to keep track of the important software and steps required to have a functioning system after a fresh install.
 
-## An collection of frameworks to use in web development
+## Install Software
+
+### Install from App Store
+* Xcode & Command Line Tools  
+* Download latest [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12&uo=4) and install it.
+* Then open `Xcode > Preferences > Downloads > Command Line Tools` or execute in Terminal:
+```
+xcode-select --install  
+```  
+
+### Install from Third-Party Websites
+* [Dashlane](https://www.dashlane.com) - My preferred password manager.
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - My preferred browser.
+* [Tuxera](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - for full read-write compatibility with NTFS-formatted drives on a Mac.
+* [Dropbox](https://www.dropbox.com/) - Get to all of your files from anywhere.
+* [Spectacle](https://www.spectacleapp.com/) - Window control with simple and customizable keyboard shortcuts.
+* [Android File Transfer](https://www.android.com/filetransfer/#tips) - Browse and transfer files between your Mac computer and your Android device.
+* [DBeaver](http://dbeaver.jkiss.org/) - Universal SQL Client
+* [Xampp](https://www.apachefriends.org/index.html) - Apache + MariaDB + PHP + Perl
+
+### Install Homebrew  
+1. Install [latest](http://brew.sh/) Homebrew
+2. Run Xcode and accept the license (Homebrew can not install properly until this occurs.)
+3. [http://brewformulas.org/](http://brewformulas.org/)
+
+### Install git
+```
+brew update
+brew install git
+git --version
+brew doctor
+```
+
+### Install scala
+```
+brew update
+brew cask install java
+java --version
+brew install scala
+scala --version
+brew doctor
+```
+
+https://www.atlassian.com/software/sourcetree
+https://desktop.github.com/
+
+
+### Install Node
+[nvm](https://github.com/creationix/nvm/blob/master/README.markdown)  
+Note: Do not use brew to install `nvm`.
+1. `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash`
+2. `nvm install 5.0`
+3. `nvm alias default v5.0` # Set it as your default so it runs for every new shell openednvm alias default v5.0
+
+
+## Dev Tools  
+* [atom](https://atom.io/)  
+* minimap `apm install minimap`
+* jsonlint `apm install jsonlint`
+* [linter](https://atomlinter.github.io/)
+
+## Customisations
+
+1. Launch an OS X Terminal Window from a Specific Folder  
+
+Head into System Preferences and select `Keyboard > Shortcuts > Services`. Find "`New Terminal at Folder`" in the settings and click the box. Now, when you're in Finder, just right-click a folder and you're shown the open to open Terminal.
+
+
+
+## A collection of frameworks to use in web development
 [http://emmet.io/download/](http://emmet.io/download/)<br>
 [http://perf-tooling.today/](http://perf-tooling.today/)<br>
 
@@ -461,11 +529,11 @@
 [https://yhathq.com/](https://yhathq.com/)<br>  
 
 #### Pakages
-* devtools<br>
-* caret<br>
-* ggplot2<br>
-* plyr<br>
-* manipulate<br>  
+*   devtools<br>
+*   caret<br>
+*   ggplot2<br>
+*   plyr<br>
+*   manipulate<br>  
 
 ### Database
 [https://github.com/emirozer/fake2db](https://github.com/emirozer/fake2db)<br>  
@@ -543,10 +611,6 @@
 [http://confagenda.audero.it/](http://confagenda.audero.it/) [http://www.tablesgenerator.com/](http://www.tablesgenerator.com/)<br>
 [http://gofore.com/ohjelmistokehitys/stop-using-bower/](http://gofore.com/ohjelmistokehitys/stop-using-bower/)<br>
 [http://cleanthesis.der-ric.de/](http://cleanthesis.der-ric.de/)<br>  
-
-# Mac
-[http://brewformulas.org/](http://brewformulas.org/)<br>
-[http://brew.sh/](http://brew.sh/)<br>  
 
 # Personal Intrests
 [http://karpathy.github.io/neuralnets/](http://karpathy.github.io/neuralnets/)<br>
